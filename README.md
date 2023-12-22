@@ -8,3 +8,6 @@ https://www.kaggle.com/datasets/dansbecker/powerlifting-database
 https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
 
 https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+

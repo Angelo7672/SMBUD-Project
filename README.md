@@ -4,3 +4,6 @@ Systems and Methods for Big and Unstructured Data - Politecnico di Milano A.A. 2
 https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set?select=LinkedInJobs_MLDataset.csv
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Overleaf:
+https://www.overleaf.com/4528364845cwgywfqvpvfd#566340

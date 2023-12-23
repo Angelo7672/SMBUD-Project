@@ -1,0 +1,5 @@
+CREATE CONSTRAINT FOR (c:Customer) REQUIRE c.customer_id IS UNIQUE;
+CREATE CONSTRAINT FOR (c:CustomerUnique) REQUIRE c.customerUnique_id IS UNIQUE;
+CREATE CONSTRAINT FOR (c:CustomerZipCodePrefix) REQUIRE c.customer_zip_code_prefix IS UNIQUE;
+CREATE CONSTRAINT FOR (c:CustomerCity) REQUIRE c.customer_city IS UNIQUE;
+CREATE CONSTRAINT FOR (c:CustomerState) REQUIRE c.customer_state IS UNIQUE;

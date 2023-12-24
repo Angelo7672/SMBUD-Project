@@ -1,0 +1,7 @@
+LOAD CSV WITH HEADERS FROM "file:///olist_customers_dataset.csv" AS row
+WITH row WHERE row.customer_id IS NOT NULL AND row.customer_unique_id IS NOT NULL
+MERGE (c:Customer{customer_id: row.customer_id})
+ON CREATE SET 
+	c.customer_unique_id = row.customer_unique_id,
+	c.customer_city = row.customer_city,
+	c.customer_state = row.customer_state

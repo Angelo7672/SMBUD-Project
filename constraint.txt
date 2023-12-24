@@ -1,0 +1,2 @@
+CREATE CONSTRAINT FOR (c:Customer) REQUIRE c.customer_id IS UNIQUE;
+CREATE CONSTRAINT FOR (c:CustomerUnique) REQUIRE c.customer_unique_id IS UNIQUE;

@@ -1,2 +1,0 @@
-LOAD CSV WITH HEADERS "file:///.csv" AS row
-WITH row WHERE row.id IS NOT NULL

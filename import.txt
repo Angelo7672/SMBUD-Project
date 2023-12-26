@@ -2,43 +2,41 @@
 LOAD CSV WITH HEADERS FROM "file:///olist_customers_dataset.csv" AS customers
 WITH customers WHERE customers.customer_id IS NOT NULL AND customers.customer_unique_id IS NOT NULL
 MERGE (c:Customer{customer_id: customers.customer_unique_id})
+MERGE (o:Order{customer_id: customers.customer_id})
+MERGE (c)-[:PLACED]->(o);
 
 //Order
 LOAD CSV WITH HEADERS FROM "file:///olist_orders_dataset.csv" AS orders
 WITH orders WHERE orders.order_id IS NOT NULL
 MERGE (o:Order{order_id: orders.order_id})
+ON CREATE SET
+	o.customer_id = orders.customer_id,
+	o.purchase_timestamp = orders.order_purchase_timestamp,
+	o.delivery_date = orders.order_estimated_delivery_date
 
 //Review
 LOAD CSV WITH HEADERS FROM "file:///olist_order_reviews_dataset.csv" AS reviews
 WITH reviews WHERE reviews.review_id IS NOT NULL
-MATCH (o:Order{order_id: reviews.order_id})
 MERGE (r:Review{review_id: reviews.review_id})
 ON CREATE SET
 	r.score = reviews.review_score,
-	r.comment_title = reviews.comment_title,
+	r.comment_title = CASE trim(reviews.comment_title) WHEN "" THEN null ELSE reviews.comment_title END,
+	r.comment = CASE trim(reviews.comment_message) WHEN "" THEN null ELSE reviews.comment_message END,
 	r.creation_date = reviews.creation_date,
 	r.answer_timestamp = reviews.answer_timestamp
-MERGE (o)-[:RECEIVED]-(r)
+MERGE (o:Order{order_id: reviews.order_id})
+MERGE (o)-[:RECEIVED]->(r);
+
+//Item
+
+
+//Seller
+LOAD CSV WITH HEADERS FROM "file:///olist_order_sellers_dataset.csv" AS reviews
+
 	
 
 
-//Relate Customer with order using only customer_unique_id
-LOAD CSV WITH HEADERS FROM "file:///olist_customers_dataset.csv" AS customers
-LOAD CSV WITH HEADERS FROM "file:///olist_orders_dataset.csv" AS orders
-WITH customers,orders WHERE orders.order_id IS NOT NULL AND customers.customer_id IS NOT NULL AND customers.customer_unique_id IS NOT NULL
-MERGE (o:Order{order_id: orders.order_id})	//prendi tutti gli order id
-MERGE (c:Customer{customer_id: row.customer_unique_id}) //prendi tutti i customer_id
-MERGE (c)-[:PLACED]-(o)
 
-
-
-WITH customers,orders,o
-MATCH (o1:Order{order_id: customers:customer_id}) //prendi tutti gli order che matchano customer_id da file
-MATCH (c2:Customer{customer_id: c1.customer_unique_id})	
-
-MERGE (c1:Customer{customer_id: row.customer_unique_id})
-
-MATCH (c2:Customer{customer_id: c1.customer_unique_id})
 
 
 

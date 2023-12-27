@@ -65,7 +65,7 @@ ON CREATE SET
 		p.length_cm = products.product_length_cm,
 		p.height_cm = products.product_height_cm,
 		p.width_cm = products.product_width_cm
-MERGE (c:Category{name: products.product_category_name})
+MERGE (c:Category{name: coalesce(products.product_category_name,"NA")})
 MERGE (p)-[:BELONGS_TO]->(c);
 
 
@@ -108,13 +108,3 @@ ON CREATE SET
 	o.purchase_timestamp = orders.order_purchase_timestamp,
 	o.delivery_date = orders.order_estimated_delivery_date;
 
-LOAD CSV WITH HEADERS FROM "file:///prova1.csv" AS customers
-WITH customers WHERE customers.customer_id IS NOT NULL AND customers.customer_unique_id IS NOT NULL
-LOAD CSV WITH HEADERS FROM "file:///prova2.csv" AS orders
-WITH orders,customers WHERE orders.order_id IS NOT NULL
-MERGE (c:Customer{customer_id: customers.customer_unique_id})
-MERGE (o:Order{order_id: orders.order_id})
-WITH customers,orders
-MATCH (c1:customers{customer_id: orders.customer_id})
-MATCH (o1:orders{customer_id: customers.customer_id})
-MERGE (c:Customer{customer_id: c1.customer_unique_id})-[:PLACED]->(o:Order{order_id: o1.order_id});

@@ -108,3 +108,7 @@ ON CREATE SET
 	o.purchase_timestamp = orders.order_purchase_timestamp,
 	o.delivery_date = orders.order_estimated_delivery_date;
 
+
+
+
+

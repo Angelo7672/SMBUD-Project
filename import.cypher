@@ -42,10 +42,19 @@ LOAD CSV WITH HEADERS FROM "file:///olist_order_payments_dataset.csv" AS payment
 WITH payments WHERE payments.order_id IS NOT NULL
 CREATE (p:Payment{order_id: payments.order_id, value: payments.payment_value, type: payments.payment_type });
 
-//------Relation------
+//Review DA CONTROLLARE
+LOAD CSV WITH HEADERS FROM "file:///olist_order_reviews_dataset.csv" AS reviews
+WITH reviews WHERE reviews.review_id IS NOT NULL
+CREATE (r:Review{
+  review_id: reviews.review_id, 
+  score: reviews.review_score,
+  comment_title: CASE WHEN trim(reviews.comment_title) = "" THEN null ELSE reviews.comment_title END,
+  comment: CASE WHEN trim(reviews.review_comment_message) = "" THEN null ELSE reviews.review_comment_message END,
+  creation_date: datetime({ epochMillis: apoc.date.parse(reviews.review_creation_date, 'ms', 'M/d/yyyy H:mm') }),
+  answer_timestamp: datetime({ epochMillis: apoc.date.parse(reviews.review_answer_timestamp, 'ms', 'M/d/yyyy H:mm') })
+});
 
-CREATE INDEX order_customer_id_index FOR (n:Order) ON (n.customer_id);
-CREATE INDEX customer_id_index FOR (n:Customer) ON (n.customer_id);	//questo mi sa che non serve
+//------Relation------
 
 LOAD CSV WITH HEADERS FROM "file:///olist_customers_dataset.csv" AS customers_rel
 WITH customers_rel WHERE customers_rel.customer_id IS NOT NULL AND customers_rel.customer_unique_id IS NOT NULL
@@ -56,9 +65,6 @@ MERGE (c)-[:PLACED]->(o);
 MATCH (o:Order)
 REMOVE o.customer_id;	//remove the attribute customer_id
 
-CREATE INDEX state_index FOR(s:State) ON (s.code);	//questo mi sa che non serve
-CREATE INDEX city_index FOR(c:City) ON (c.name_state);	//questo mi sa che non serve
-
 LOAD CSV WITH HEADERS FROM "file:///olist_customers_dataset.csv" AS customers_rel
 WITH customers_rel WHERE customers_rel.customer_id IS NOT NULL AND customers_rel.customer_unique_id IS NOT NULL
 MATCH (ct:City {name_state: customers_rel.customer_city + "-" +customers_rel.customer_state})
@@ -70,8 +76,6 @@ WITH customers_rel WHERE customers_rel.customer_id IS NOT NULL AND customers_rel
 MATCH (ct:City {name_state: customers_rel.customer_city + "-" +customers_rel.customer_state})
 MATCH (st:State {code: customers_rel.customer_state })
 MERGE (ct)-[:PART_OF]->(st);
-
-CREATE INDEX seller_id_index FOR (n:Seller) ON (n.seller_id);	//questo mi sa che non serve
 
 LOAD CSV WITH HEADERS FROM "file:///olist_sellers_dataset.csv" AS sellers_rel
 WITH sellers_rel WHERE sellers_rel.seller_id IS NOT NULL
@@ -81,6 +85,53 @@ MATCH (st:State {code: sellers_rel.seller_state })
 MERGE (c)-[:PART_OF]->(st)
 MERGE (s)-[:HAS_HEADQUARTERS_IN]->(c);
 
+LOAD CSV WITH HEADERS FROM "file:///olist_order_items_dataset.csv" AS items_rel
+WITH items_rel WHERE items_rel.order_id IS NOT NULL AND items_rel.order_item_id IS NOT NULL AND items_rel.seller_id IS NOT NULL
+MATCH (i:Item{item_id: items_rel.order_id + "-" + items_rel.order_item_id})
+MATCH (o:Order{order_id: items_rel.order_id})
+MERGE (o)-[:COMPOSED_OF]->(i)
+WITH items_rel,i
+MATCH (s:Seller{seller_id: items_rel.seller_id})
+MERGE (i)-[:SOLD_BY]->(s)
+WITH items_rel,i
+MATCH (p:Product{product_id: items_rel.product_id})
+MERGE (i)-[:CORRESPONDS_TO]->(p);
+
+LOAD CSV WITH HEADERS FROM "file:///olist_products_dataset.csv" AS products_rel
+WITH products_rel WHERE products_rel.product_id IS NOT NULL
+MATCH (p:Product{product_id: products_rel.product_id})
+MATCH (c:Category{name: products_rel.product_category_name})
+MERGE (p)-[:BELONGS_TO]->(c);
 
 
+//-----QUeste ultime due loopano all'infinito
+
+
+LOAD CSV WITH HEADERS FROM "file:///olist_order_reviews_dataset.csv" AS reviews_rel
+WITH reviews_rel WHERE reviews_rel.review_id IS NOT NULL
+MATCH (r:Review{review_id: reviews_rel.review_id})
+MATCH (o:Order{order_id: reviews_rel.order_id})
+MERGE (o)-[:RECEIVED]->(r);
+
+
+LOAD CSV WITH HEADERS FROM "file:///olist_order_payments_dataset.csv" AS payments_rel
+WITH payments_rel WHERE payments_rel.order_id IS NOT NULL
+MATCH (o:Order{order_id: payments_rel.order_id})
+MATCH (p:Payment{order_id: payments_rel.order_id})
+REMOVE p.order_id
+MERGE (o)-[:PAID_BY]->(p);
+
+
+//per evitare di modificare il file, ma non funziona
+LOAD CSV WITH HEADERS FROM "file:///olist_order_reviews_dataset.csv" AS reviews
+WITH reviews, replace(reviews.review_comment_message, "\'", "") AS comment_message
+WHERE reviews.review_id IS NOT NULL
+CREATE (r:Review {
+  review_id: reviews.review_id, 
+  score: reviews.review_score,
+  comment_title: CASE WHEN trim(reviews.comment_title) = "" THEN null ELSE reviews.comment_title END,
+  comment: CASE WHEN trim(comment_message) = "" THEN null ELSE comment_message END,
+  creation_date: datetime({ epochMillis: apoc.date.parse(reviews.review_creation_date, 'ms', 'M/d/yyyy H:mm') }),
+  answer_timestamp: datetime({ epochMillis: apoc.date.parse(reviews.review_answer_timestamp, 'ms', 'M/d/yyyy H:mm') })
+});
 

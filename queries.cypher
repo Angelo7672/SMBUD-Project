@@ -145,7 +145,6 @@ WITH Customer, COLLECT{
 } as lp
 UNWIND lp as Last_Products
 RETURN Customer, Last_Products.product as Product
-ORDER by Customer ASC
 
 // 12) For each seller the last 10 products selled
 MATCH (s:Seller)
@@ -158,6 +157,37 @@ WITH Seller, COLLECT{
 	RETURN {product: product.product_id}
 	ORDER BY o.purchase_timestamp DESC
 	LIMIT 10
-} as lp
-UNWIND lp as Last_Products
-RETURN Seller, Last_Products.product as Product
+} AS lp
+UNWIND lp AS Last_Products
+RETURN Seller, Last_Products.product AS Product
+
+// 13) The average weight of items shipped to each city
+MATCH (p:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(:Customer)-[:LIVES_IN]->(c:City)
+RETURN c, avg(p.weight_g) AS Target_Weigth
+
+// 14) For each customer the percentage of the state provenience of his/her orders
+MATCH (c:Customer)-[:PLACED]->(:Order)-[:COMPOSED_OF]->(:Item)-[:SOLD_BY]->(se:Seller)
+WITH c, toFloat(count(se)) ASASAS seller_number
+MATCH (c)-[:PLACED]->(:Order)-[:COMPOSED_OF]->(:Item)-[:SOLD_BY]->(se:Seller),
+		(se)-[:HAS_HEADQUARTERS_IN]->(:City)-[:PART_OF]->(st:State)
+RETURN c, st.code AS State, seller_number, round(100*count(se)/seller_number,2) AS Percentage
+ORDER BY c.customer_id DESC, Percentage DESC
+
+// 15) For each seller the worst reviewed product
+MATCH (se:Seller)
+WITH DISTINCT se.seller_id AS Seller
+WITH Seller, COLLECT{
+	MATCH (s:Seller)<-[:SOLD_BY]-(:Item)-[:CORRESPONDS_TO]->(p:Product),
+			(p)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)-[:RECEIVED]->(r:Review)
+	WHERE s.seller_id = Seller
+	WITH p AS product, sum(r.score) ASAS Score
+	RETURN {product: product.product_id, score: Score}
+	ORDER BY Score ASC
+	LIMIT 1
+} AS wp
+UNWIND wp AS Worst_Product
+RETURN Seller,Worst_Product.product AS Product, Worst_Product.score AS Score
+
+// 16) For each seller the average size and weight of products selled
+MATCH (p:Product)<-[:CORRESPONDS_TO]-(:Item)-[:SOLD_BY]->(s:Seller)
+RETURN s, avg(p.width_cm) AS AVG_width_cm, avg(p.height_cm) AS AVG_height_cm, avg(p.length_cm) AS AVG_length_cm, avg(p.weight_g) AS AVG_weight

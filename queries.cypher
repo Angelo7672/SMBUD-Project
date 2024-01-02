@@ -1,13 +1,4 @@
 // 1) For each category the percentage of customers of each origin in descending order. E.g.: for the comb 30 percent Italian customers and 70 Argentinians
-// VECCHIA
-MATCH (c:Category)<-[:BELONGS_TO]-(:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(cu:Customer),
-		(cu)-[:LIVES_IN]->(:City)-[:PART_OF]->(s:State)
-WITH c,s,count(cu) AS states_number	//for each category by how many different states
-MATCH (cat:Category)<-[:BELONGS_TO]-(:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(cust:Customer),
-		(cust)-[:LIVES_IN]->(:City)-[:PART_OF]->(st:State)
-RETURN cat,st,states_number,100*states_number/count(cust) AS percentage	//for each category how many customer / for each category by how many different states
-
-// FUNZIONANTE
 MATCH (c:Category)<-[:BELONGS_TO]-(:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(cu:Customer)
 WITH c, toFloat(count(cu)) AS customer_number	//for each category how many customers
 MATCH (c)<-[:BELONGS_TO]-(:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(cust:Customer),
@@ -17,9 +8,6 @@ RETURN Category, State, Percentage //for each category the percentage of custome
 ORDER BY Category ASC, Percentage DESC
 
 // 2) For each company, the percentage of profit that each nation generates in decreasing order. For example, company X receives 70 percent from Italy and 30 percent from France
-
-// FUNZIONANTE (quella vecchia è identica a quella sopra)
-
 MATCH (s:Seller)<-[:SOLD_BY]-(i:Item)<-[:COMPOSED_OF]-(:Order)<-[:PLACED]-(cu:Customer),
 		(cu)-[:LIVES_IN]->(:City)-[:PART_OF]->(:State)
 WITH s, sum(i.price) AS revenue
@@ -30,17 +18,6 @@ RETURN Seller, State, Percentage
 ORDER BY Seller ASC, Percentage DESC;
 
 // 3) For each year the ranking of the most profitable companies
-
-// VECCHIA
-
-MATCH (s:Seller)<-[:SOLD_BY]-(i:Item)<-[:COMPOSED_OF]-(o:Order)
-WITH o.purchase_timestamp.year AS year, s AS seller, sum(toInteger(i.price)) AS revenue
-ORDER BY year, revenue DESC
-WITH year, collect({seller: seller, revenue: revenue})[0] AS bestSeller
-RETURN year, bestSeller.seller AS bestSeller, bestSeller.revenue AS revenue;
-
-// FUNZIONANTE
-
 MATCH (n:Order)
 WITH DISTINCT n.purchase_timestamp.year AS Year
 WITH Year, COLLECT{
@@ -56,15 +33,6 @@ RETURN Year, BestSellers.seller as Seller, BestSellers.revenue as Revenue
 ORDER BY Year DESC, Revenue DESC;
 
 // 4) For each company the percentage of profit coming from each product in descending order
-
-// VECCHIA
-MATCH (:Product)<-[:CORRESPONDS_TO]-(i:Item)-[:SOLD_BY]->(s:Seller)
-WITH s,sum(toInteger(i.price)) AS seller_reward
-MATCH (p:Product)<-[:CORRESPONDS_TO]-(it:Item)-[:SOLD_BY]->(se:Seller)
-RETURN se,p,seller_reward,100*toInteger(it.price)/seller_reward AS profit_percentage
-ORDER BY profit_percentage desc
-
-// FUNZIONANTE
 MATCH (:Product)<-[:CORRESPONDS_TO]-(i:Item)-[:SOLD_BY]->(s:Seller)
 WITH s, sum(i.price) AS revenue
 MATCH (p:Product)<-[:CORRESPONDS_TO]-(it:Item)-[:SOLD_BY]->(s:Seller)
@@ -73,15 +41,6 @@ RETURN Seller, Product, Profit_percentage
 ORDER BY Seller ASC, Profit_percentage DESC
 
 // 5) For each category, the top ten products with the most positive average reviews
-
-// VECCHIA
-MATCH (c:Category)<-[:BELONGS_TO]-(:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)-[:RECEIVED]->(r:Review)
-RETURN c,r,toInteger(r.score)
-
-ORDER BY r.score desc
-LIMIT 10
-
-// FUNZIONANTE
 MATCH (cat:Category)
 WITH cat, COLLECT{
     MATCH (cat)<-[:BELONGS_TO]-(p:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)-[:RECEIVED]->(r:Review)
@@ -158,3 +117,47 @@ MATCH (p:Payment)<-[:PAID_BY]-(:Order)-[:COMPOSED_OF]->(:Item)-[:CORRESPONDS_TO]
 RETURN DISTINCT pr.photos_qty AS Quantity,SUM(p.value) AS Revenue
 ORDER BY Quantity DESC
 
+// 10) For each year, the most purchased product
+MATCH (o:Order)
+WITH DISTINCT o.purchase_timestamp.year AS Year
+WITH Year, COLLECT{
+	MATCH (p:Product)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(o:Order)
+	WHERE o.purchase_timestamp.year = Year
+	WITH p AS product, COUNT(p) AS Quantity_Sold
+	RETURN {product: product.product_id, quantity_sold: Quantity_Sold}
+	ORDER BY Quantity_Sold DESC
+	LIMIT 1
+} as bs
+UNWIND bs as Best_Sellers
+RETURN Year, Best_Sellers.product as Product, Best_Sellers.quantity_sold as Quantity_Sold
+ORDER by Year DESC
+
+// 11) For each customer the last 10 products purchased
+MATCH (c:Customer)
+WITH DISTINCT c.customer_id AS Customer
+WITH Customer, COLLECT{
+	MATCH (c:Customer)-[:PLACED]->(o:Order)-[:COMPOSED_OF]->(:Item)-[:CORRESPONDS_TO]->(p:Product)
+	WHERE c.customer_id = Customer
+	WITH p AS product, o
+	RETURN {product: product.product_id}
+	ORDER BY o.purchase_timestamp DESC
+	LIMIT 10
+} as lp
+UNWIND lp as Last_Products
+RETURN Customer, Last_Products.product as Product
+ORDER by Customer ASC
+
+// 12) For each seller the last 10 products selled
+MATCH (s:Seller)
+WITH DISTINCT s.seller_id AS Seller
+WITH Seller, COLLECT{
+	MATCH (o:Order)-[:COMPOSED_OF]->(i:Item)-[:CORRESPONDS_TO]->(p:Product),
+		(i)-[:SOLD_BY]->(s:Seller)
+	WHERE s.seller_id = Seller
+	WITH p AS product, o
+	RETURN {product: product.product_id}
+	ORDER BY o.purchase_timestamp DESC
+	LIMIT 10
+} as lp
+UNWIND lp as Last_Products
+RETURN Seller, Last_Products.product as Product

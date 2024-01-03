@@ -180,14 +180,59 @@ WITH Seller, COLLECT{
 	MATCH (s:Seller)<-[:SOLD_BY]-(:Item)-[:CORRESPONDS_TO]->(p:Product),
 			(p)<-[:CORRESPONDS_TO]-(:Item)<-[:COMPOSED_OF]-(:Order)-[:RECEIVED]->(r:Review)
 	WHERE s.seller_id = Seller
-	WITH p AS product, sum(r.score) ASAS Score
+	WITH p AS product, sum(r.score) AS Score
 	RETURN {product: product.product_id, score: Score}
 	ORDER BY Score ASC
 	LIMIT 1
 } AS wp
 UNWIND wp AS Worst_Product
-RETURN Seller,Worst_Product.product AS Product, Worst_Product.score AS Score
+RETURN Seller, Worst_Product.product AS Product, Worst_Product.score AS Score
 
 // 16) For each seller the average size and weight of products selled
 MATCH (p:Product)<-[:CORRESPONDS_TO]-(:Item)-[:SOLD_BY]->(s:Seller)
 RETURN s, avg(p.width_cm) AS AVG_width_cm, avg(p.height_cm) AS AVG_height_cm, avg(p.length_cm) AS AVG_length_cm, avg(p.weight_g) AS AVG_weight
+
+// 17) For each customer, the company from which he/she bought the most
+MATCH (c:Customer)
+WITH DISTINCT c.customer_id AS Customer
+WITH Customer, COLLECT{
+	MATCH (c:Customer)-[:PLACED]->(o:Order)-[:COMPOSED_OF]->(:Item)-[:SOLD_BY]->(s:Seller)
+	WHERE c.customer_id = Customer
+	WITH s, COUNT(DISTINCT(o)) as Number_Orders
+	RETURN {seller: s.seller_id, number_orders: Number_Orders}
+	ORDER BY Number_Orders DESC
+	LIMIT 1
+} AS tp
+UNWIND tp AS Top
+RETURN Customer, Top.seller AS Seller, Top.number_orders AS Number_of_Orders
+
+// 18) For each customer, the reviews that he/she wrote
+MATCH (c:Customer)-[:PLACED]->(:Order)-[:RECEIVED]->(re:Review)
+RETURN c,re
+
+// 19) For each year, the best company based on the reviews score
+MATCH (o:Order)
+WITH DISTINCT o.purchase_timestamp.year AS Year
+WITH Year, COLLECT{
+	MATCH (o:Order)-[:RECEIVED]->(r:Review),
+			(o)-[:COMPOSED_OF]->(:Item)-[:SOLD_BY]->(s:Seller)
+	WHERE o.purchase_timestamp.year = Year
+	WITH s, sum(r.score) AS Score
+	RETURN {seller: s.seller_id, score: Score}
+	ORDER BY Score DESC
+	LIMIT 1
+} AS bs
+UNWIND bs AS Best_Seller
+RETURN Year, Best_Seller.seller AS Seller, Best_Seller.score AS Score
+
+// 20) For each customer, how much he/she spent every year
+MATCH (o:Order)
+WITH DISTINCT o.purchase_timestamp.year AS Year
+WITH Year, COLLECT{
+	MATCH (c:Customer)-[:PLACED]->(o:Order)-[:PAID_BY]->(p:Payment)
+	WHERE o.purchase_timestamp.year = Year
+	WITH c,sum(p.value) AS Total_Spending
+	RETURN {customer: c.customer_id, total_spending: Total_Spending}
+} AS ts
+UNWIND ts AS Total_Spending
+RETURN Year, Total_Spending.customer AS Customer, Total_Spending.total_spending AS Total_Spending

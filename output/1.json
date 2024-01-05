@@ -1,0 +1,6847 @@
+﻿[
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "SP",
+    "Percentage": 45.28
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "RJ",
+    "Percentage": 13.21
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "MG",
+    "Percentage": 9.91
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "PR",
+    "Percentage": 5.66
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "RS",
+    "Percentage": 4.25
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "GO",
+    "Percentage": 3.3
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "CE",
+    "Percentage": 2.83
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "PE",
+    "Percentage": 2.36
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "BA",
+    "Percentage": 2.36
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "RO",
+    "Percentage": 1.89
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "MS",
+    "Percentage": 1.42
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "SC",
+    "Percentage": 1.42
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "PI",
+    "Percentage": 1.42
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "ES",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "MT",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "PB",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "PA",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "AL",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "AP",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "agro_industria_e_comercio",
+    "State": "MA",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "alimentos",
+    "State": "SP",
+    "Percentage": 55.88
+  },
+  {
+    "Category": "alimentos",
+    "State": "RJ",
+    "Percentage": 9.22
+  },
+  {
+    "Category": "alimentos",
+    "State": "MG",
+    "Percentage": 7.45
+  },
+  {
+    "Category": "alimentos",
+    "State": "PR",
+    "Percentage": 5.69
+  },
+  {
+    "Category": "alimentos",
+    "State": "BA",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "alimentos",
+    "State": "SC",
+    "Percentage": 3.14
+  },
+  {
+    "Category": "alimentos",
+    "State": "ES",
+    "Percentage": 2.75
+  },
+  {
+    "Category": "alimentos",
+    "State": "RS",
+    "Percentage": 2.55
+  },
+  {
+    "Category": "alimentos",
+    "State": "DF",
+    "Percentage": 1.76
+  },
+  {
+    "Category": "alimentos",
+    "State": "PE",
+    "Percentage": 1.57
+  },
+  {
+    "Category": "alimentos",
+    "State": "MT",
+    "Percentage": 1.37
+  },
+  {
+    "Category": "alimentos",
+    "State": "GO",
+    "Percentage": 1.37
+  },
+  {
+    "Category": "alimentos",
+    "State": "CE",
+    "Percentage": 0.98
+  },
+  {
+    "Category": "alimentos",
+    "State": "MS",
+    "Percentage": 0.78
+  },
+  {
+    "Category": "alimentos",
+    "State": "PB",
+    "Percentage": 0.59
+  },
+  {
+    "Category": "alimentos",
+    "State": "RN",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "alimentos",
+    "State": "SE",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "alimentos",
+    "State": "PI",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "alimentos",
+    "State": "AM",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "alimentos",
+    "State": "RO",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "alimentos",
+    "State": "AL",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "SP",
+    "Percentage": 48.92
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "RJ",
+    "Percentage": 18.71
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "MG",
+    "Percentage": 9.35
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "PR",
+    "Percentage": 5.76
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "BA",
+    "Percentage": 2.88
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "ES",
+    "Percentage": 2.52
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "RS",
+    "Percentage": 2.16
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "PE",
+    "Percentage": 1.8
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "DF",
+    "Percentage": 1.8
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "CE",
+    "Percentage": 1.44
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "RN",
+    "Percentage": 1.44
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "SC",
+    "Percentage": 1.08
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "MA",
+    "Percentage": 0.72
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "SE",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "AL",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "PA",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "PI",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "alimentos_bebidas",
+    "State": "MS",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "artes",
+    "State": "SP",
+    "Percentage": 47.37
+  },
+  {
+    "Category": "artes",
+    "State": "RJ",
+    "Percentage": 15.79
+  },
+  {
+    "Category": "artes",
+    "State": "MG",
+    "Percentage": 8.61
+  },
+  {
+    "Category": "artes",
+    "State": "BA",
+    "Percentage": 4.78
+  },
+  {
+    "Category": "artes",
+    "State": "PR",
+    "Percentage": 4.31
+  },
+  {
+    "Category": "artes",
+    "State": "RS",
+    "Percentage": 4.31
+  },
+  {
+    "Category": "artes",
+    "State": "DF",
+    "Percentage": 2.87
+  },
+  {
+    "Category": "artes",
+    "State": "SC",
+    "Percentage": 2.87
+  },
+  {
+    "Category": "artes",
+    "State": "GO",
+    "Percentage": 1.91
+  },
+  {
+    "Category": "artes",
+    "State": "RO",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "artes",
+    "State": "PI",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "artes",
+    "State": "AP",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "artes",
+    "State": "PA",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "artes",
+    "State": "ES",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "RN",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "MS",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "MT",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "PB",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "PE",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes",
+    "State": "AM",
+    "Percentage": 0.48
+  },
+  {
+    "Category": "artes_e_artesanato",
+    "State": "SP",
+    "Percentage": 66.67
+  },
+  {
+    "Category": "artes_e_artesanato",
+    "State": "MG",
+    "Percentage": 25.0
+  },
+  {
+    "Category": "artes_e_artesanato",
+    "State": "SC",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "artes_e_artesanato",
+    "State": "DF",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "SP",
+    "Percentage": 41.86
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "RJ",
+    "Percentage": 13.95
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "MG",
+    "Percentage": 11.63
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "RS",
+    "Percentage": 9.3
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "ES",
+    "Percentage": 4.65
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "GO",
+    "Percentage": 4.65
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "PR",
+    "Percentage": 4.65
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "SC",
+    "Percentage": 4.65
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "DF",
+    "Percentage": 2.33
+  },
+  {
+    "Category": "artigos_de_festas",
+    "State": "PI",
+    "Percentage": 2.33
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "SP",
+    "Percentage": 32.68
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "MG",
+    "Percentage": 12.42
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "RJ",
+    "Percentage": 9.8
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "SC",
+    "Percentage": 9.15
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "BA",
+    "Percentage": 6.54
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "DF",
+    "Percentage": 5.23
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "RS",
+    "Percentage": 3.92
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "PR",
+    "Percentage": 3.92
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "PA",
+    "Percentage": 3.92
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "PE",
+    "Percentage": 2.61
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "GO",
+    "Percentage": 1.96
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "MS",
+    "Percentage": 1.31
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "CE",
+    "Percentage": 1.31
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "RO",
+    "Percentage": 1.31
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "ES",
+    "Percentage": 1.31
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "MA",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "AC",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "MT",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "artigos_de_natal",
+    "State": "RN",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "audio",
+    "State": "SP",
+    "Percentage": 40.11
+  },
+  {
+    "Category": "audio",
+    "State": "RJ",
+    "Percentage": 15.93
+  },
+  {
+    "Category": "audio",
+    "State": "MG",
+    "Percentage": 9.89
+  },
+  {
+    "Category": "audio",
+    "State": "PR",
+    "Percentage": 4.95
+  },
+  {
+    "Category": "audio",
+    "State": "RS",
+    "Percentage": 4.4
+  },
+  {
+    "Category": "audio",
+    "State": "DF",
+    "Percentage": 4.4
+  },
+  {
+    "Category": "audio",
+    "State": "ES",
+    "Percentage": 3.85
+  },
+  {
+    "Category": "audio",
+    "State": "BA",
+    "Percentage": 3.85
+  },
+  {
+    "Category": "audio",
+    "State": "SC",
+    "Percentage": 2.75
+  },
+  {
+    "Category": "audio",
+    "State": "GO",
+    "Percentage": 1.92
+  },
+  {
+    "Category": "audio",
+    "State": "AL",
+    "Percentage": 1.37
+  },
+  {
+    "Category": "audio",
+    "State": "CE",
+    "Percentage": 1.37
+  },
+  {
+    "Category": "audio",
+    "State": "MT",
+    "Percentage": 1.1
+  },
+  {
+    "Category": "audio",
+    "State": "PI",
+    "Percentage": 1.1
+  },
+  {
+    "Category": "audio",
+    "State": "PE",
+    "Percentage": 1.1
+  },
+  {
+    "Category": "audio",
+    "State": "MA",
+    "Percentage": 0.82
+  },
+  {
+    "Category": "audio",
+    "State": "MS",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "audio",
+    "State": "TO",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "audio",
+    "State": "RN",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "audio",
+    "State": "PB",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "audio",
+    "State": "PA",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "audio",
+    "State": "AM",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "automotivo",
+    "State": "SP",
+    "Percentage": 41.28
+  },
+  {
+    "Category": "automotivo",
+    "State": "MG",
+    "Percentage": 12.14
+  },
+  {
+    "Category": "automotivo",
+    "State": "RJ",
+    "Percentage": 10.46
+  },
+  {
+    "Category": "automotivo",
+    "State": "PR",
+    "Percentage": 5.48
+  },
+  {
+    "Category": "automotivo",
+    "State": "RS",
+    "Percentage": 4.44
+  },
+  {
+    "Category": "automotivo",
+    "State": "SC",
+    "Percentage": 4.3
+  },
+  {
+    "Category": "automotivo",
+    "State": "BA",
+    "Percentage": 3.75
+  },
+  {
+    "Category": "automotivo",
+    "State": "DF",
+    "Percentage": 2.6
+  },
+  {
+    "Category": "automotivo",
+    "State": "GO",
+    "Percentage": 2.34
+  },
+  {
+    "Category": "automotivo",
+    "State": "ES",
+    "Percentage": 2.05
+  },
+  {
+    "Category": "automotivo",
+    "State": "PE",
+    "Percentage": 2.05
+  },
+  {
+    "Category": "automotivo",
+    "State": "CE",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "automotivo",
+    "State": "MT",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "automotivo",
+    "State": "PA",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "automotivo",
+    "State": "MA",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "automotivo",
+    "State": "PI",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "automotivo",
+    "State": "MS",
+    "Percentage": 0.61
+  },
+  {
+    "Category": "automotivo",
+    "State": "PB",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "automotivo",
+    "State": "AL",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "automotivo",
+    "State": "SE",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "automotivo",
+    "State": "RN",
+    "Percentage": 0.45
+  },
+  {
+    "Category": "automotivo",
+    "State": "TO",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "automotivo",
+    "State": "RO",
+    "Percentage": 0.24
+  },
+  {
+    "Category": "automotivo",
+    "State": "AM",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "automotivo",
+    "State": "AC",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "automotivo",
+    "State": "AP",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "automotivo",
+    "State": "RR",
+    "Percentage": 0.02
+  },
+  {
+    "Category": "bebes",
+    "State": "SP",
+    "Percentage": 41.66
+  },
+  {
+    "Category": "bebes",
+    "State": "MG",
+    "Percentage": 12.17
+  },
+  {
+    "Category": "bebes",
+    "State": "RJ",
+    "Percentage": 11.78
+  },
+  {
+    "Category": "bebes",
+    "State": "RS",
+    "Percentage": 6.88
+  },
+  {
+    "Category": "bebes",
+    "State": "PR",
+    "Percentage": 5.25
+  },
+  {
+    "Category": "bebes",
+    "State": "SC",
+    "Percentage": 3.69
+  },
+  {
+    "Category": "bebes",
+    "State": "BA",
+    "Percentage": 3.16
+  },
+  {
+    "Category": "bebes",
+    "State": "DF",
+    "Percentage": 2.25
+  },
+  {
+    "Category": "bebes",
+    "State": "ES",
+    "Percentage": 2.02
+  },
+  {
+    "Category": "bebes",
+    "State": "GO",
+    "Percentage": 1.76
+  },
+  {
+    "Category": "bebes",
+    "State": "PA",
+    "Percentage": 1.44
+  },
+  {
+    "Category": "bebes",
+    "State": "PE",
+    "Percentage": 1.34
+  },
+  {
+    "Category": "bebes",
+    "State": "MT",
+    "Percentage": 1.14
+  },
+  {
+    "Category": "bebes",
+    "State": "MS",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "bebes",
+    "State": "CE",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "bebes",
+    "State": "MA",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "bebes",
+    "State": "RN",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "bebes",
+    "State": "PB",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "bebes",
+    "State": "PI",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "bebes",
+    "State": "RO",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "bebes",
+    "State": "SE",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "bebes",
+    "State": "TO",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "bebes",
+    "State": "AL",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "bebes",
+    "State": "AM",
+    "Percentage": 0.16
+  },
+  {
+    "Category": "bebes",
+    "State": "AC",
+    "Percentage": 0.1
+  },
+  {
+    "Category": "bebes",
+    "State": "RR",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "bebidas",
+    "State": "SP",
+    "Percentage": 55.67
+  },
+  {
+    "Category": "bebidas",
+    "State": "RJ",
+    "Percentage": 14.51
+  },
+  {
+    "Category": "bebidas",
+    "State": "MG",
+    "Percentage": 6.86
+  },
+  {
+    "Category": "bebidas",
+    "State": "RS",
+    "Percentage": 4.75
+  },
+  {
+    "Category": "bebidas",
+    "State": "PR",
+    "Percentage": 3.96
+  },
+  {
+    "Category": "bebidas",
+    "State": "SC",
+    "Percentage": 3.69
+  },
+  {
+    "Category": "bebidas",
+    "State": "BA",
+    "Percentage": 2.9
+  },
+  {
+    "Category": "bebidas",
+    "State": "GO",
+    "Percentage": 1.85
+  },
+  {
+    "Category": "bebidas",
+    "State": "ES",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "bebidas",
+    "State": "DF",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "bebidas",
+    "State": "MS",
+    "Percentage": 1.06
+  },
+  {
+    "Category": "bebidas",
+    "State": "CE",
+    "Percentage": 0.79
+  },
+  {
+    "Category": "bebidas",
+    "State": "PA",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "bebidas",
+    "State": "PI",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "bebidas",
+    "State": "AM",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "bebidas",
+    "State": "AL",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "bebidas",
+    "State": "MT",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "SP",
+    "Percentage": 43.57
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "MG",
+    "Percentage": 11.25
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "RJ",
+    "Percentage": 11.02
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "RS",
+    "Percentage": 4.5
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "PR",
+    "Percentage": 4.38
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "BA",
+    "Percentage": 3.61
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "SC",
+    "Percentage": 3.23
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "DF",
+    "Percentage": 2.54
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "PE",
+    "Percentage": 2.48
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "GO",
+    "Percentage": 2.36
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "CE",
+    "Percentage": 1.73
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "ES",
+    "Percentage": 1.71
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "PA",
+    "Percentage": 1.1
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "MT",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "MA",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "PB",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "MS",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "AL",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "RN",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "PI",
+    "Percentage": 0.56
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "SE",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "TO",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "RO",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "AM",
+    "Percentage": 0.21
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "AP",
+    "Percentage": 0.1
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "RR",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "beleza_saude",
+    "State": "AC",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "brinquedos",
+    "State": "SP",
+    "Percentage": 41.66
+  },
+  {
+    "Category": "brinquedos",
+    "State": "RJ",
+    "Percentage": 14.26
+  },
+  {
+    "Category": "brinquedos",
+    "State": "MG",
+    "Percentage": 12.02
+  },
+  {
+    "Category": "brinquedos",
+    "State": "RS",
+    "Percentage": 5.17
+  },
+  {
+    "Category": "brinquedos",
+    "State": "PR",
+    "Percentage": 4.96
+  },
+  {
+    "Category": "brinquedos",
+    "State": "SC",
+    "Percentage": 2.94
+  },
+  {
+    "Category": "brinquedos",
+    "State": "BA",
+    "Percentage": 2.84
+  },
+  {
+    "Category": "brinquedos",
+    "State": "DF",
+    "Percentage": 2.38
+  },
+  {
+    "Category": "brinquedos",
+    "State": "ES",
+    "Percentage": 2.36
+  },
+  {
+    "Category": "brinquedos",
+    "State": "GO",
+    "Percentage": 2.04
+  },
+  {
+    "Category": "brinquedos",
+    "State": "CE",
+    "Percentage": 1.6
+  },
+  {
+    "Category": "brinquedos",
+    "State": "PE",
+    "Percentage": 1.58
+  },
+  {
+    "Category": "brinquedos",
+    "State": "MT",
+    "Percentage": 1.07
+  },
+  {
+    "Category": "brinquedos",
+    "State": "MS",
+    "Percentage": 0.87
+  },
+  {
+    "Category": "brinquedos",
+    "State": "PA",
+    "Percentage": 0.7
+  },
+  {
+    "Category": "brinquedos",
+    "State": "PI",
+    "Percentage": 0.68
+  },
+  {
+    "Category": "brinquedos",
+    "State": "MA",
+    "Percentage": 0.63
+  },
+  {
+    "Category": "brinquedos",
+    "State": "RN",
+    "Percentage": 0.61
+  },
+  {
+    "Category": "brinquedos",
+    "State": "PB",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "brinquedos",
+    "State": "RO",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "brinquedos",
+    "State": "TO",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "brinquedos",
+    "State": "AL",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "brinquedos",
+    "State": "SE",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "brinquedos",
+    "State": "AM",
+    "Percentage": 0.17
+  },
+  {
+    "Category": "brinquedos",
+    "State": "AP",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "brinquedos",
+    "State": "AC",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "SP",
+    "Percentage": 47.29
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "RJ",
+    "Percentage": 14.8
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "MG",
+    "Percentage": 11.97
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "RS",
+    "Percentage": 5.52
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "PR",
+    "Percentage": 4.21
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "SC",
+    "Percentage": 2.99
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "BA",
+    "Percentage": 2.37
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "GO",
+    "Percentage": 2.11
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "ES",
+    "Percentage": 2.02
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "DF",
+    "Percentage": 1.88
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "PE",
+    "Percentage": 0.85
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "CE",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "MT",
+    "Percentage": 0.63
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "MS",
+    "Percentage": 0.58
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "PA",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "MA",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "PI",
+    "Percentage": 0.31
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "PB",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "RN",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "AL",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "SE",
+    "Percentage": 0.13
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "RO",
+    "Percentage": 0.13
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "TO",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "AM",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "AP",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "AC",
+    "Percentage": 0.04
+  },
+  {
+    "Category": "cama_mesa_banho",
+    "State": "RR",
+    "Percentage": 0.03
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "SP",
+    "Percentage": 47.0
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "RJ",
+    "Percentage": 14.06
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "MG",
+    "Percentage": 13.13
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "RS",
+    "Percentage": 4.84
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "PR",
+    "Percentage": 3.0
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "SC",
+    "Percentage": 2.76
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "ES",
+    "Percentage": 2.76
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "BA",
+    "Percentage": 2.53
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "PE",
+    "Percentage": 1.84
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "GO",
+    "Percentage": 1.84
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "DF",
+    "Percentage": 1.61
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "MT",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "CE",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "PI",
+    "Percentage": 0.69
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "MA",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "TO",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "AL",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "MS",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "PB",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "RN",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "SE",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto",
+    "State": "RO",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "SP",
+    "Percentage": 46.67
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "GO",
+    "Percentage": 16.67
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "RJ",
+    "Percentage": 13.33
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "MG",
+    "Percentage": 10.0
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "RS",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "PR",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "ES",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "casa_conforto_2",
+    "State": "BA",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "SP",
+    "Percentage": 45.03
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "RJ",
+    "Percentage": 11.92
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "MG",
+    "Percentage": 10.43
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "RS",
+    "Percentage": 7.12
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "SC",
+    "Percentage": 4.14
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "PR",
+    "Percentage": 3.97
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "ES",
+    "Percentage": 2.48
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "BA",
+    "Percentage": 2.32
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "GO",
+    "Percentage": 2.15
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "CE",
+    "Percentage": 1.66
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "MS",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "MT",
+    "Percentage": 1.16
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "PE",
+    "Percentage": 1.16
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "DF",
+    "Percentage": 1.16
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "PB",
+    "Percentage": 0.83
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "MA",
+    "Percentage": 0.83
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "AM",
+    "Percentage": 0.66
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "PI",
+    "Percentage": 0.66
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "AL",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "SE",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "PA",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "RN",
+    "Percentage": 0.17
+  },
+  {
+    "Category": "casa_construcao",
+    "State": "TO",
+    "Percentage": 0.17
+  },
+  {
+    "Category": "cds_dvds_musicais",
+    "State": "SP",
+    "Percentage": 42.86
+  },
+  {
+    "Category": "cds_dvds_musicais",
+    "State": "RS",
+    "Percentage": 35.71
+  },
+  {
+    "Category": "cds_dvds_musicais",
+    "State": "RJ",
+    "Percentage": 14.29
+  },
+  {
+    "Category": "cds_dvds_musicais",
+    "State": "MA",
+    "Percentage": 7.14
+  },
+  {
+    "Category": "cine_foto",
+    "State": "SP",
+    "Percentage": 43.06
+  },
+  {
+    "Category": "cine_foto",
+    "State": "RS",
+    "Percentage": 16.67
+  },
+  {
+    "Category": "cine_foto",
+    "State": "MG",
+    "Percentage": 8.33
+  },
+  {
+    "Category": "cine_foto",
+    "State": "RJ",
+    "Percentage": 6.94
+  },
+  {
+    "Category": "cine_foto",
+    "State": "SC",
+    "Percentage": 5.56
+  },
+  {
+    "Category": "cine_foto",
+    "State": "BA",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "cine_foto",
+    "State": "PA",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "cine_foto",
+    "State": "PR",
+    "Percentage": 2.78
+  },
+  {
+    "Category": "cine_foto",
+    "State": "DF",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "cine_foto",
+    "State": "ES",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "cine_foto",
+    "State": "PE",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "cine_foto",
+    "State": "MA",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "cine_foto",
+    "State": "MT",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "cine_foto",
+    "State": "GO",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "climatizacao",
+    "State": "SP",
+    "Percentage": 46.8
+  },
+  {
+    "Category": "climatizacao",
+    "State": "RJ",
+    "Percentage": 23.23
+  },
+  {
+    "Category": "climatizacao",
+    "State": "MG",
+    "Percentage": 6.73
+  },
+  {
+    "Category": "climatizacao",
+    "State": "RS",
+    "Percentage": 5.05
+  },
+  {
+    "Category": "climatizacao",
+    "State": "PR",
+    "Percentage": 4.04
+  },
+  {
+    "Category": "climatizacao",
+    "State": "GO",
+    "Percentage": 2.36
+  },
+  {
+    "Category": "climatizacao",
+    "State": "ES",
+    "Percentage": 2.02
+  },
+  {
+    "Category": "climatizacao",
+    "State": "BA",
+    "Percentage": 2.02
+  },
+  {
+    "Category": "climatizacao",
+    "State": "MT",
+    "Percentage": 1.68
+  },
+  {
+    "Category": "climatizacao",
+    "State": "SC",
+    "Percentage": 1.35
+  },
+  {
+    "Category": "climatizacao",
+    "State": "DF",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "climatizacao",
+    "State": "PI",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "climatizacao",
+    "State": "PE",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "climatizacao",
+    "State": "CE",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "climatizacao",
+    "State": "MA",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "climatizacao",
+    "State": "PB",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "climatizacao",
+    "State": "AL",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "climatizacao",
+    "State": "AM",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "consoles_games",
+    "State": "SP",
+    "Percentage": 43.8
+  },
+  {
+    "Category": "consoles_games",
+    "State": "RJ",
+    "Percentage": 12.49
+  },
+  {
+    "Category": "consoles_games",
+    "State": "MG",
+    "Percentage": 11.7
+  },
+  {
+    "Category": "consoles_games",
+    "State": "RS",
+    "Percentage": 5.36
+  },
+  {
+    "Category": "consoles_games",
+    "State": "PR",
+    "Percentage": 4.13
+  },
+  {
+    "Category": "consoles_games",
+    "State": "BA",
+    "Percentage": 3.17
+  },
+  {
+    "Category": "consoles_games",
+    "State": "SC",
+    "Percentage": 2.99
+  },
+  {
+    "Category": "consoles_games",
+    "State": "DF",
+    "Percentage": 2.46
+  },
+  {
+    "Category": "consoles_games",
+    "State": "ES",
+    "Percentage": 2.02
+  },
+  {
+    "Category": "consoles_games",
+    "State": "GO",
+    "Percentage": 1.93
+  },
+  {
+    "Category": "consoles_games",
+    "State": "PE",
+    "Percentage": 1.76
+  },
+  {
+    "Category": "consoles_games",
+    "State": "CE",
+    "Percentage": 1.41
+  },
+  {
+    "Category": "consoles_games",
+    "State": "PA",
+    "Percentage": 1.23
+  },
+  {
+    "Category": "consoles_games",
+    "State": "PI",
+    "Percentage": 0.79
+  },
+  {
+    "Category": "consoles_games",
+    "State": "MT",
+    "Percentage": 0.79
+  },
+  {
+    "Category": "consoles_games",
+    "State": "AL",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "consoles_games",
+    "State": "PB",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "consoles_games",
+    "State": "SE",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "consoles_games",
+    "State": "RN",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "consoles_games",
+    "State": "MS",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "consoles_games",
+    "State": "MA",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "consoles_games",
+    "State": "TO",
+    "Percentage": 0.35
+  },
+  {
+    "Category": "consoles_games",
+    "State": "AM",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "consoles_games",
+    "State": "RO",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "consoles_games",
+    "State": "AP",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "consoles_games",
+    "State": "AC",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "SP",
+    "Percentage": 46.07
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "MG",
+    "Percentage": 13.13
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "RJ",
+    "Percentage": 13.13
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "PR",
+    "Percentage": 5.49
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "RS",
+    "Percentage": 4.74
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "BA",
+    "Percentage": 3.88
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "SC",
+    "Percentage": 3.23
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "MS",
+    "Percentage": 1.51
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "PE",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "ES",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "DF",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "GO",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "CE",
+    "Percentage": 1.08
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "RN",
+    "Percentage": 0.86
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "MT",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "RO",
+    "Percentage": 0.43
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "PA",
+    "Percentage": 0.22
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "AL",
+    "Percentage": 0.22
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "PB",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "MA",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "SE",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "construcao_ferramentas_construcao",
+    "State": "PI",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "SP",
+    "Percentage": 32.04
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "MG",
+    "Percentage": 17.48
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "RJ",
+    "Percentage": 8.74
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "PR",
+    "Percentage": 7.77
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "RS",
+    "Percentage": 7.77
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "GO",
+    "Percentage": 6.8
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "BA",
+    "Percentage": 4.85
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "SC",
+    "Percentage": 4.85
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "ES",
+    "Percentage": 3.88
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "PA",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "MT",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "PE",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "PB",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "MS",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_ferramentas",
+    "State": "CE",
+    "Percentage": 0.97
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "SP",
+    "Percentage": 47.04
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "MG",
+    "Percentage": 13.49
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "RS",
+    "Percentage": 7.89
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "RJ",
+    "Percentage": 6.91
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "SC",
+    "Percentage": 5.26
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "PR",
+    "Percentage": 4.28
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "ES",
+    "Percentage": 2.96
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "MS",
+    "Percentage": 2.96
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "BA",
+    "Percentage": 1.97
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "GO",
+    "Percentage": 1.64
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "DF",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "PE",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "MT",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "TO",
+    "Percentage": 0.66
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "PI",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "CE",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "MA",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "SE",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "construcao_ferramentas_iluminacao",
+    "State": "PA",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "SP",
+    "Percentage": 41.6
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "RJ",
+    "Percentage": 16.39
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "MG",
+    "Percentage": 12.61
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "CE",
+    "Percentage": 3.36
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "BA",
+    "Percentage": 3.36
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "RS",
+    "Percentage": 2.94
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "PE",
+    "Percentage": 2.52
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "PR",
+    "Percentage": 2.52
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "SC",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "ES",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "DF",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "GO",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "PI",
+    "Percentage": 1.68
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "RN",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "AM",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "MS",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "RO",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "PB",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "construcao_ferramentas_jardim",
+    "State": "PA",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "SP",
+    "Percentage": 34.02
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "MG",
+    "Percentage": 14.95
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "PR",
+    "Percentage": 9.28
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "RJ",
+    "Percentage": 8.76
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "SC",
+    "Percentage": 6.7
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "PB",
+    "Percentage": 4.12
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "RS",
+    "Percentage": 4.12
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "BA",
+    "Percentage": 3.61
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "GO",
+    "Percentage": 3.61
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "CE",
+    "Percentage": 2.58
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "MT",
+    "Percentage": 2.06
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "PE",
+    "Percentage": 2.06
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "DF",
+    "Percentage": 1.55
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "MS",
+    "Percentage": 1.03
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "RN",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "SE",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "construcao_ferramentas_seguranca",
+    "State": "RO",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "SP",
+    "Percentage": 36.01
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "RJ",
+    "Percentage": 13.8
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "MG",
+    "Percentage": 12.12
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "RS",
+    "Percentage": 6.9
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "PR",
+    "Percentage": 5.66
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "SC",
+    "Percentage": 4.19
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "BA",
+    "Percentage": 3.85
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "GO",
+    "Percentage": 2.61
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "DF",
+    "Percentage": 2.11
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "PE",
+    "Percentage": 2.11
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "ES",
+    "Percentage": 1.71
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "CE",
+    "Percentage": 1.37
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "PA",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "MT",
+    "Percentage": 1.21
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "MA",
+    "Percentage": 0.9
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "MS",
+    "Percentage": 0.68
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "PB",
+    "Percentage": 0.66
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "RN",
+    "Percentage": 0.55
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "PI",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "SE",
+    "Percentage": 0.45
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "AL",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "TO",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "RO",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "AM",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "RR",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "AP",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "cool_stuff",
+    "State": "AC",
+    "Percentage": 0.03
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "SP",
+    "Percentage": 35.94
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "RJ",
+    "Percentage": 20.31
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "PR",
+    "Percentage": 7.81
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "RS",
+    "Percentage": 6.25
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "MG",
+    "Percentage": 6.25
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "DF",
+    "Percentage": 4.69
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "MS",
+    "Percentage": 4.69
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "SC",
+    "Percentage": 3.13
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "PE",
+    "Percentage": 3.13
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "RN",
+    "Percentage": 1.56
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "GO",
+    "Percentage": 1.56
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "RO",
+    "Percentage": 1.56
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "PI",
+    "Percentage": 1.56
+  },
+  {
+    "Category": "dvds_blu_ray",
+    "State": "AL",
+    "Percentage": 1.56
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "SP",
+    "Percentage": 45.27
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "MG",
+    "Percentage": 11.15
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "RJ",
+    "Percentage": 10.89
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "PR",
+    "Percentage": 6.1
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "RS",
+    "Percentage": 5.58
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "BA",
+    "Percentage": 5.06
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "SC",
+    "Percentage": 3.24
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "GO",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "DF",
+    "Percentage": 1.95
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "ES",
+    "Percentage": 1.95
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "PA",
+    "Percentage": 1.3
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "MT",
+    "Percentage": 1.04
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "CE",
+    "Percentage": 0.91
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "MS",
+    "Percentage": 0.78
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "PE",
+    "Percentage": 0.65
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "PI",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "MA",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "RR",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "AL",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "RN",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "RO",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "PB",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "AM",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "SE",
+    "Percentage": 0.13
+  },
+  {
+    "Category": "eletrodomesticos",
+    "State": "TO",
+    "Percentage": 0.13
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "SP",
+    "Percentage": 37.39
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "RJ",
+    "Percentage": 18.91
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "SC",
+    "Percentage": 8.82
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "MG",
+    "Percentage": 8.4
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "PR",
+    "Percentage": 6.72
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "RS",
+    "Percentage": 5.04
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "BA",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "DF",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "MS",
+    "Percentage": 1.68
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "ES",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "CE",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "MT",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "TO",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "GO",
+    "Percentage": 1.26
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "PE",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "AL",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "RN",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "AM",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "PI",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "eletrodomesticos_2",
+    "State": "SE",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "eletronicos",
+    "State": "SP",
+    "Percentage": 36.32
+  },
+  {
+    "Category": "eletronicos",
+    "State": "RJ",
+    "Percentage": 15.76
+  },
+  {
+    "Category": "eletronicos",
+    "State": "MG",
+    "Percentage": 10.7
+  },
+  {
+    "Category": "eletronicos",
+    "State": "PR",
+    "Percentage": 6.65
+  },
+  {
+    "Category": "eletronicos",
+    "State": "RS",
+    "Percentage": 6.0
+  },
+  {
+    "Category": "eletronicos",
+    "State": "SC",
+    "Percentage": 4.52
+  },
+  {
+    "Category": "eletronicos",
+    "State": "BA",
+    "Percentage": 3.9
+  },
+  {
+    "Category": "eletronicos",
+    "State": "ES",
+    "Percentage": 2.82
+  },
+  {
+    "Category": "eletronicos",
+    "State": "DF",
+    "Percentage": 1.84
+  },
+  {
+    "Category": "eletronicos",
+    "State": "CE",
+    "Percentage": 1.66
+  },
+  {
+    "Category": "eletronicos",
+    "State": "PE",
+    "Percentage": 1.48
+  },
+  {
+    "Category": "eletronicos",
+    "State": "GO",
+    "Percentage": 1.19
+  },
+  {
+    "Category": "eletronicos",
+    "State": "PA",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "eletronicos",
+    "State": "MT",
+    "Percentage": 0.94
+  },
+  {
+    "Category": "eletronicos",
+    "State": "MS",
+    "Percentage": 0.83
+  },
+  {
+    "Category": "eletronicos",
+    "State": "PI",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "eletronicos",
+    "State": "SE",
+    "Percentage": 0.69
+  },
+  {
+    "Category": "eletronicos",
+    "State": "RN",
+    "Percentage": 0.51
+  },
+  {
+    "Category": "eletronicos",
+    "State": "AL",
+    "Percentage": 0.51
+  },
+  {
+    "Category": "eletronicos",
+    "State": "MA",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "eletronicos",
+    "State": "PB",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "eletronicos",
+    "State": "TO",
+    "Percentage": 0.25
+  },
+  {
+    "Category": "eletronicos",
+    "State": "RO",
+    "Percentage": 0.22
+  },
+  {
+    "Category": "eletronicos",
+    "State": "AC",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "eletronicos",
+    "State": "AM",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "eletronicos",
+    "State": "AP",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "eletronicos",
+    "State": "RR",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "SP",
+    "Percentage": 45.21
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "RJ",
+    "Percentage": 12.96
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "MG",
+    "Percentage": 9.87
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "RS",
+    "Percentage": 6.63
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "PR",
+    "Percentage": 6.19
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "SC",
+    "Percentage": 4.12
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "DF",
+    "Percentage": 3.53
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "BA",
+    "Percentage": 2.65
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "GO",
+    "Percentage": 1.62
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "PA",
+    "Percentage": 1.33
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "CE",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "MT",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "MS",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "PB",
+    "Percentage": 0.59
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "ES",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "SE",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "RN",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "PE",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "MA",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "AC",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "eletroportateis",
+    "State": "RO",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "SP",
+    "Percentage": 42.69
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "RJ",
+    "Percentage": 12.05
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "MG",
+    "Percentage": 11.23
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "PR",
+    "Percentage": 5.61
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "RS",
+    "Percentage": 5.5
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "SC",
+    "Percentage": 4.21
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "BA",
+    "Percentage": 3.38
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "DF",
+    "Percentage": 2.62
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "ES",
+    "Percentage": 2.01
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "GO",
+    "Percentage": 1.94
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "PE",
+    "Percentage": 1.72
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "CE",
+    "Percentage": 1.09
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "PA",
+    "Percentage": 0.98
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "MT",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "MS",
+    "Percentage": 0.87
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "MA",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "PB",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "SE",
+    "Percentage": 0.41
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "PI",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "AL",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "TO",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "RN",
+    "Percentage": 0.25
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "RO",
+    "Percentage": 0.23
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "AM",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "AC",
+    "Percentage": 0.1
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "RR",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "esporte_lazer",
+    "State": "AP",
+    "Percentage": 0.08
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "SP",
+    "Percentage": 42.44
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "MG",
+    "Percentage": 13.05
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "RJ",
+    "Percentage": 9.85
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "PR",
+    "Percentage": 5.81
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "RS",
+    "Percentage": 3.94
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "SC",
+    "Percentage": 3.89
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "BA",
+    "Percentage": 3.79
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "ES",
+    "Percentage": 2.46
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "DF",
+    "Percentage": 2.26
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "GO",
+    "Percentage": 2.22
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "PE",
+    "Percentage": 1.77
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "PA",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "CE",
+    "Percentage": 1.48
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "MA",
+    "Percentage": 1.28
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "PB",
+    "Percentage": 0.74
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "MT",
+    "Percentage": 0.69
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "MS",
+    "Percentage": 0.69
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "RO",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "TO",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "RN",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "SE",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "PI",
+    "Percentage": 0.25
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "AL",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "AM",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "fashion_bolsas_e_acessorios",
+    "State": "AC",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "SP",
+    "Percentage": 34.73
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "MG",
+    "Percentage": 16.41
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "RJ",
+    "Percentage": 11.07
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "PR",
+    "Percentage": 7.25
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "PE",
+    "Percentage": 4.2
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "RS",
+    "Percentage": 3.82
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "GO",
+    "Percentage": 2.67
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "DF",
+    "Percentage": 2.67
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "BA",
+    "Percentage": 2.67
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "SC",
+    "Percentage": 2.67
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "ES",
+    "Percentage": 1.91
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "PA",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "MS",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "RN",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "MT",
+    "Percentage": 1.15
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "AL",
+    "Percentage": 1.15
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "CE",
+    "Percentage": 1.15
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "PB",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "AC",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "MA",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "PI",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "TO",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "fashion_calcados",
+    "State": "RO",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "SP",
+    "Percentage": 40.0
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "PA",
+    "Percentage": 13.33
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "SC",
+    "Percentage": 10.0
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "RJ",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "BA",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "RS",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "MG",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "DF",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "GO",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "PR",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "fashion_esporte",
+    "State": "MA",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "SP",
+    "Percentage": 58.33
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "MG",
+    "Percentage": 14.58
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "GO",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "RJ",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "PR",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "PB",
+    "Percentage": 4.17
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "MT",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "BA",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "DF",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "SC",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "fashion_roupa_feminina",
+    "State": "ES",
+    "Percentage": 2.08
+  },
+  {
+    "Category": "fashion_roupa_infanto_juvenil",
+    "State": "SP",
+    "Percentage": 50.0
+  },
+  {
+    "Category": "fashion_roupa_infanto_juvenil",
+    "State": "SC",
+    "Percentage": 25.0
+  },
+  {
+    "Category": "fashion_roupa_infanto_juvenil",
+    "State": "RJ",
+    "Percentage": 12.5
+  },
+  {
+    "Category": "fashion_roupa_infanto_juvenil",
+    "State": "BA",
+    "Percentage": 12.5
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "SP",
+    "Percentage": 43.18
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "MG",
+    "Percentage": 15.15
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "PR",
+    "Percentage": 9.09
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "RJ",
+    "Percentage": 9.09
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "BA",
+    "Percentage": 6.82
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "RS",
+    "Percentage": 6.82
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "ES",
+    "Percentage": 2.27
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "GO",
+    "Percentage": 2.27
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "SC",
+    "Percentage": 1.52
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "PA",
+    "Percentage": 1.52
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "CE",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "MT",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_roupa_masculina",
+    "State": "MA",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "SP",
+    "Percentage": 41.98
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "MG",
+    "Percentage": 13.74
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "RJ",
+    "Percentage": 12.98
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "SC",
+    "Percentage": 6.11
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "PR",
+    "Percentage": 4.58
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "BA",
+    "Percentage": 4.58
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "GO",
+    "Percentage": 3.82
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "RS",
+    "Percentage": 2.29
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "PA",
+    "Percentage": 2.29
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "MS",
+    "Percentage": 2.29
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "PE",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "DF",
+    "Percentage": 1.53
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "ES",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "PI",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "fashion_underwear_e_moda_praia",
+    "State": "MT",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "SP",
+    "Percentage": 35.91
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "RJ",
+    "Percentage": 15.09
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "MG",
+    "Percentage": 13.99
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "RS",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "PR",
+    "Percentage": 4.81
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "SC",
+    "Percentage": 4.23
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "BA",
+    "Percentage": 4.09
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "GO",
+    "Percentage": 2.76
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "ES",
+    "Percentage": 2.39
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "PE",
+    "Percentage": 1.5
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "DF",
+    "Percentage": 1.38
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "CE",
+    "Percentage": 1.31
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "MT",
+    "Percentage": 1.22
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "PA",
+    "Percentage": 0.85
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "SE",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "MA",
+    "Percentage": 0.55
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "MS",
+    "Percentage": 0.51
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "RN",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "PI",
+    "Percentage": 0.39
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "AL",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "PB",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "TO",
+    "Percentage": 0.3
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "RO",
+    "Percentage": 0.16
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "AM",
+    "Percentage": 0.12
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "AP",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "RR",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "ferramentas_jardim",
+    "State": "AC",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "flores",
+    "State": "SP",
+    "Percentage": 33.33
+  },
+  {
+    "Category": "flores",
+    "State": "RJ",
+    "Percentage": 24.24
+  },
+  {
+    "Category": "flores",
+    "State": "MG",
+    "Percentage": 15.15
+  },
+  {
+    "Category": "flores",
+    "State": "RS",
+    "Percentage": 9.09
+  },
+  {
+    "Category": "flores",
+    "State": "PE",
+    "Percentage": 6.06
+  },
+  {
+    "Category": "flores",
+    "State": "ES",
+    "Percentage": 6.06
+  },
+  {
+    "Category": "flores",
+    "State": "MS",
+    "Percentage": 3.03
+  },
+  {
+    "Category": "flores",
+    "State": "GO",
+    "Percentage": 3.03
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "SP",
+    "Percentage": 79.49
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "RJ",
+    "Percentage": 5.13
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "PR",
+    "Percentage": 5.13
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "CE",
+    "Percentage": 2.56
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "MG",
+    "Percentage": 2.56
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "BA",
+    "Percentage": 2.56
+  },
+  {
+    "Category": "fraldas_higiene",
+    "State": "PB",
+    "Percentage": 2.56
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "SP",
+    "Percentage": 47.39
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "RJ",
+    "Percentage": 10.45
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "RS",
+    "Percentage": 8.58
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "MG",
+    "Percentage": 6.34
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "SC",
+    "Percentage": 5.97
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "PR",
+    "Percentage": 4.48
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "GO",
+    "Percentage": 2.61
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "DF",
+    "Percentage": 2.24
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "BA",
+    "Percentage": 1.87
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "PE",
+    "Percentage": 1.49
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "PB",
+    "Percentage": 1.49
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "PI",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "MT",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "SE",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "ES",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "CE",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "AL",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "MA",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "TO",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "MS",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "RN",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "industria_comercio_e_negocios",
+    "State": "RO",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "SP",
+    "Percentage": 40.62
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "RJ",
+    "Percentage": 12.85
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "MG",
+    "Percentage": 12.8
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "RS",
+    "Percentage": 6.22
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "PR",
+    "Percentage": 4.97
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "SC",
+    "Percentage": 4.09
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "BA",
+    "Percentage": 3.3
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "DF",
+    "Percentage": 2.1
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "ES",
+    "Percentage": 1.95
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "GO",
+    "Percentage": 1.6
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "PE",
+    "Percentage": 1.35
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "CE",
+    "Percentage": 1.19
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "PA",
+    "Percentage": 1.15
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "MA",
+    "Percentage": 0.93
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "MS",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "MT",
+    "Percentage": 0.7
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "PB",
+    "Percentage": 0.69
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "AL",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "PI",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "SE",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "RN",
+    "Percentage": 0.41
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "RO",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "TO",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "AM",
+    "Percentage": 0.22
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "AP",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "AC",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "informatica_acessorios",
+    "State": "RR",
+    "Percentage": 0.06
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "SP",
+    "Percentage": 39.56
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "RJ",
+    "Percentage": 11.76
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "MG",
+    "Percentage": 11.76
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "BA",
+    "Percentage": 5.74
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "PR",
+    "Percentage": 5.44
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "RS",
+    "Percentage": 4.71
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "SC",
+    "Percentage": 4.41
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "ES",
+    "Percentage": 3.09
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "PE",
+    "Percentage": 1.62
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "PA",
+    "Percentage": 1.47
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "MA",
+    "Percentage": 1.47
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "DF",
+    "Percentage": 1.47
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "GO",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "CE",
+    "Percentage": 1.03
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "MS",
+    "Percentage": 1.03
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "MT",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "PI",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "PB",
+    "Percentage": 0.59
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "SE",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "AP",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "RN",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "AL",
+    "Percentage": 0.29
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "RO",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "TO",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "AC",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "instrumentos_musicais",
+    "State": "AM",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "la_cuisine",
+    "State": "SP",
+    "Percentage": 42.86
+  },
+  {
+    "Category": "la_cuisine",
+    "State": "RS",
+    "Percentage": 21.43
+  },
+  {
+    "Category": "la_cuisine",
+    "State": "SC",
+    "Percentage": 14.29
+  },
+  {
+    "Category": "la_cuisine",
+    "State": "MG",
+    "Percentage": 14.29
+  },
+  {
+    "Category": "la_cuisine",
+    "State": "GO",
+    "Percentage": 7.14
+  },
+  {
+    "Category": "livros_importados",
+    "State": "SP",
+    "Percentage": 61.67
+  },
+  {
+    "Category": "livros_importados",
+    "State": "MG",
+    "Percentage": 11.67
+  },
+  {
+    "Category": "livros_importados",
+    "State": "RJ",
+    "Percentage": 10.0
+  },
+  {
+    "Category": "livros_importados",
+    "State": "PA",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "livros_importados",
+    "State": "PR",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "livros_importados",
+    "State": "RS",
+    "Percentage": 3.33
+  },
+  {
+    "Category": "livros_importados",
+    "State": "SC",
+    "Percentage": 1.67
+  },
+  {
+    "Category": "livros_importados",
+    "State": "BA",
+    "Percentage": 1.67
+  },
+  {
+    "Category": "livros_importados",
+    "State": "MA",
+    "Percentage": 1.67
+  },
+  {
+    "Category": "livros_importados",
+    "State": "SE",
+    "Percentage": 1.67
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "SP",
+    "Percentage": 41.23
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "RJ",
+    "Percentage": 10.31
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "MG",
+    "Percentage": 9.76
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "PR",
+    "Percentage": 6.51
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "RS",
+    "Percentage": 5.06
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "RN",
+    "Percentage": 4.88
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "SC",
+    "Percentage": 4.34
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "DF",
+    "Percentage": 3.25
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "BA",
+    "Percentage": 2.71
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "GO",
+    "Percentage": 2.71
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "ES",
+    "Percentage": 1.99
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "PE",
+    "Percentage": 1.63
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "CE",
+    "Percentage": 1.27
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "PA",
+    "Percentage": 0.9
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "PB",
+    "Percentage": 0.9
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "MA",
+    "Percentage": 0.54
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "MS",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "MT",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "AC",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "AL",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "AM",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "RO",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "SE",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "TO",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "livros_interesse_geral",
+    "State": "PI",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "SP",
+    "Percentage": 42.32
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "RJ",
+    "Percentage": 10.86
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "MG",
+    "Percentage": 10.86
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "PR",
+    "Percentage": 5.62
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "ES",
+    "Percentage": 5.24
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "RS",
+    "Percentage": 4.49
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "SC",
+    "Percentage": 3.75
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "BA",
+    "Percentage": 3.75
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "MT",
+    "Percentage": 1.87
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "DF",
+    "Percentage": 1.87
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "CE",
+    "Percentage": 1.5
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "MS",
+    "Percentage": 1.5
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "PE",
+    "Percentage": 1.5
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "GO",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "MA",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "TO",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "PI",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "PA",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "livros_tecnicos",
+    "State": "RN",
+    "Percentage": 0.37
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "SP",
+    "Percentage": 41.58
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "MG",
+    "Percentage": 16.76
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "RJ",
+    "Percentage": 11.54
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "RS",
+    "Percentage": 5.13
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "PR",
+    "Percentage": 4.67
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "SC",
+    "Percentage": 3.21
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "BA",
+    "Percentage": 2.84
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "DF",
+    "Percentage": 2.2
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "CE",
+    "Percentage": 2.2
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "ES",
+    "Percentage": 1.47
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "PE",
+    "Percentage": 1.19
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "GO",
+    "Percentage": 1.1
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "MS",
+    "Percentage": 0.82
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "MA",
+    "Percentage": 0.82
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "MT",
+    "Percentage": 0.73
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "PB",
+    "Percentage": 0.64
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "PA",
+    "Percentage": 0.64
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "AL",
+    "Percentage": 0.55
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "RO",
+    "Percentage": 0.55
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "PI",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "AM",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "SE",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "TO",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "AC",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "malas_acessorios",
+    "State": "RN",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "market_place",
+    "State": "SP",
+    "Percentage": 37.62
+  },
+  {
+    "Category": "market_place",
+    "State": "RJ",
+    "Percentage": 11.58
+  },
+  {
+    "Category": "market_place",
+    "State": "MG",
+    "Percentage": 10.61
+  },
+  {
+    "Category": "market_place",
+    "State": "RS",
+    "Percentage": 6.75
+  },
+  {
+    "Category": "market_place",
+    "State": "PR",
+    "Percentage": 4.82
+  },
+  {
+    "Category": "market_place",
+    "State": "SC",
+    "Percentage": 4.5
+  },
+  {
+    "Category": "market_place",
+    "State": "GO",
+    "Percentage": 4.18
+  },
+  {
+    "Category": "market_place",
+    "State": "MA",
+    "Percentage": 2.89
+  },
+  {
+    "Category": "market_place",
+    "State": "ES",
+    "Percentage": 2.25
+  },
+  {
+    "Category": "market_place",
+    "State": "PA",
+    "Percentage": 1.61
+  },
+  {
+    "Category": "market_place",
+    "State": "MT",
+    "Percentage": 1.61
+  },
+  {
+    "Category": "market_place",
+    "State": "DF",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "market_place",
+    "State": "CE",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "market_place",
+    "State": "PE",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "market_place",
+    "State": "BA",
+    "Percentage": 1.29
+  },
+  {
+    "Category": "market_place",
+    "State": "SE",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "market_place",
+    "State": "PB",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "market_place",
+    "State": "AL",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "market_place",
+    "State": "PI",
+    "Percentage": 0.96
+  },
+  {
+    "Category": "market_place",
+    "State": "RN",
+    "Percentage": 0.64
+  },
+  {
+    "Category": "market_place",
+    "State": "MS",
+    "Percentage": 0.64
+  },
+  {
+    "Category": "market_place",
+    "State": "TO",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "market_place",
+    "State": "AC",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "market_place",
+    "State": "AM",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "market_place",
+    "State": "RO",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "SP",
+    "Percentage": 57.89
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "RJ",
+    "Percentage": 21.05
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "MG",
+    "Percentage": 7.89
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "SC",
+    "Percentage": 5.26
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "RN",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "GO",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "moveis_colchao_e_estofado",
+    "State": "DF",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "SP",
+    "Percentage": 50.89
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "RJ",
+    "Percentage": 16.73
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "MG",
+    "Percentage": 10.32
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "PR",
+    "Percentage": 5.69
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "RS",
+    "Percentage": 4.63
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "SC",
+    "Percentage": 2.49
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "DF",
+    "Percentage": 1.78
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "PE",
+    "Percentage": 1.42
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "GO",
+    "Percentage": 1.42
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "MT",
+    "Percentage": 1.07
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "BA",
+    "Percentage": 1.07
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "AL",
+    "Percentage": 0.71
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "RN",
+    "Percentage": 0.71
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "TO",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "PA",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "CE",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "ES",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+    "State": "PB",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "SP",
+    "Percentage": 42.57
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "RJ",
+    "Percentage": 13.08
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "MG",
+    "Percentage": 11.41
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "RS",
+    "Percentage": 6.74
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "PR",
+    "Percentage": 6.25
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "SC",
+    "Percentage": 4.25
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "BA",
+    "Percentage": 3.0
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "DF",
+    "Percentage": 1.82
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "ES",
+    "Percentage": 1.76
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "GO",
+    "Percentage": 1.54
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "PE",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "CE",
+    "Percentage": 1.06
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "MT",
+    "Percentage": 0.91
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "PA",
+    "Percentage": 0.85
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "MS",
+    "Percentage": 0.78
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "MA",
+    "Percentage": 0.58
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "PB",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "AL",
+    "Percentage": 0.41
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "RN",
+    "Percentage": 0.35
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "SE",
+    "Percentage": 0.3
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "PI",
+    "Percentage": 0.26
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "TO",
+    "Percentage": 0.22
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "RO",
+    "Percentage": 0.16
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "AC",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "RR",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "AM",
+    "Percentage": 0.05
+  },
+  {
+    "Category": "moveis_decoracao",
+    "State": "AP",
+    "Percentage": 0.04
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "SP",
+    "Percentage": 39.27
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "RJ",
+    "Percentage": 17.98
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "MG",
+    "Percentage": 9.88
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "PR",
+    "Percentage": 5.44
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "BA",
+    "Percentage": 5.38
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "RS",
+    "Percentage": 4.02
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "SC",
+    "Percentage": 3.67
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "ES",
+    "Percentage": 1.77
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "CE",
+    "Percentage": 1.66
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "PA",
+    "Percentage": 1.6
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "MA",
+    "Percentage": 1.36
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "GO",
+    "Percentage": 1.3
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "PE",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "MT",
+    "Percentage": 1.18
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "DF",
+    "Percentage": 1.12
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "PB",
+    "Percentage": 0.59
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "PI",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "AL",
+    "Percentage": 0.41
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "TO",
+    "Percentage": 0.35
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "RO",
+    "Percentage": 0.35
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "RN",
+    "Percentage": 0.3
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "MS",
+    "Percentage": 0.24
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "SE",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "AM",
+    "Percentage": 0.12
+  },
+  {
+    "Category": "moveis_escritorio",
+    "State": "RR",
+    "Percentage": 0.06
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "SP",
+    "Percentage": 47.71
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "RJ",
+    "Percentage": 18.35
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "PR",
+    "Percentage": 10.09
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "MG",
+    "Percentage": 6.42
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "BA",
+    "Percentage": 3.67
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "RN",
+    "Percentage": 2.75
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "SC",
+    "Percentage": 2.75
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "RS",
+    "Percentage": 1.83
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "SE",
+    "Percentage": 1.83
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "MT",
+    "Percentage": 1.83
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "GO",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "DF",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "PE",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "MS",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "moveis_quarto",
+    "State": "ES",
+    "Percentage": 0.92
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "SP",
+    "Percentage": 40.16
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "RJ",
+    "Percentage": 23.26
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "MG",
+    "Percentage": 9.54
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "RS",
+    "Percentage": 4.77
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "BA",
+    "Percentage": 3.98
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "PR",
+    "Percentage": 3.38
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "ES",
+    "Percentage": 2.78
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "SC",
+    "Percentage": 2.39
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "GO",
+    "Percentage": 1.99
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "DF",
+    "Percentage": 1.39
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "AL",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "PE",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "MA",
+    "Percentage": 0.8
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "MT",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "SE",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "PB",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "MS",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "CE",
+    "Percentage": 0.4
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "TO",
+    "Percentage": 0.4
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "PI",
+    "Percentage": 0.4
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "PA",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "RO",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "moveis_sala",
+    "State": "AC",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "musica",
+    "State": "SP",
+    "Percentage": 31.58
+  },
+  {
+    "Category": "musica",
+    "State": "RJ",
+    "Percentage": 21.05
+  },
+  {
+    "Category": "musica",
+    "State": "PR",
+    "Percentage": 18.42
+  },
+  {
+    "Category": "musica",
+    "State": "MG",
+    "Percentage": 15.79
+  },
+  {
+    "Category": "musica",
+    "State": "GO",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "musica",
+    "State": "DF",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "musica",
+    "State": "RS",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "musica",
+    "State": "AM",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "musica",
+    "State": "CE",
+    "Percentage": 2.63
+  },
+  {
+    "Category": "papelaria",
+    "State": "SP",
+    "Percentage": 42.39
+  },
+  {
+    "Category": "papelaria",
+    "State": "RJ",
+    "Percentage": 13.15
+  },
+  {
+    "Category": "papelaria",
+    "State": "MG",
+    "Percentage": 10.97
+  },
+  {
+    "Category": "papelaria",
+    "State": "RS",
+    "Percentage": 5.84
+  },
+  {
+    "Category": "papelaria",
+    "State": "PR",
+    "Percentage": 5.09
+  },
+  {
+    "Category": "papelaria",
+    "State": "SC",
+    "Percentage": 3.77
+  },
+  {
+    "Category": "papelaria",
+    "State": "BA",
+    "Percentage": 3.06
+  },
+  {
+    "Category": "papelaria",
+    "State": "GO",
+    "Percentage": 1.99
+  },
+  {
+    "Category": "papelaria",
+    "State": "ES",
+    "Percentage": 1.99
+  },
+  {
+    "Category": "papelaria",
+    "State": "DF",
+    "Percentage": 1.95
+  },
+  {
+    "Category": "papelaria",
+    "State": "PE",
+    "Percentage": 1.91
+  },
+  {
+    "Category": "papelaria",
+    "State": "CE",
+    "Percentage": 1.47
+  },
+  {
+    "Category": "papelaria",
+    "State": "MT",
+    "Percentage": 1.11
+  },
+  {
+    "Category": "papelaria",
+    "State": "PA",
+    "Percentage": 0.87
+  },
+  {
+    "Category": "papelaria",
+    "State": "MS",
+    "Percentage": 0.87
+  },
+  {
+    "Category": "papelaria",
+    "State": "MA",
+    "Percentage": 0.79
+  },
+  {
+    "Category": "papelaria",
+    "State": "PB",
+    "Percentage": 0.72
+  },
+  {
+    "Category": "papelaria",
+    "State": "RN",
+    "Percentage": 0.52
+  },
+  {
+    "Category": "papelaria",
+    "State": "PI",
+    "Percentage": 0.44
+  },
+  {
+    "Category": "papelaria",
+    "State": "AL",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "papelaria",
+    "State": "RO",
+    "Percentage": 0.32
+  },
+  {
+    "Category": "papelaria",
+    "State": "AM",
+    "Percentage": 0.24
+  },
+  {
+    "Category": "papelaria",
+    "State": "SE",
+    "Percentage": 0.16
+  },
+  {
+    "Category": "papelaria",
+    "State": "TO",
+    "Percentage": 0.12
+  },
+  {
+    "Category": "papelaria",
+    "State": "AC",
+    "Percentage": 0.08
+  },
+  {
+    "Category": "papelaria",
+    "State": "AP",
+    "Percentage": 0.08
+  },
+  {
+    "Category": "papelaria",
+    "State": "RR",
+    "Percentage": 0.08
+  },
+  {
+    "Category": "pc_gamer",
+    "State": "SP",
+    "Percentage": 44.44
+  },
+  {
+    "Category": "pc_gamer",
+    "State": "RJ",
+    "Percentage": 33.33
+  },
+  {
+    "Category": "pc_gamer",
+    "State": "PE",
+    "Percentage": 11.11
+  },
+  {
+    "Category": "pc_gamer",
+    "State": "MG",
+    "Percentage": 11.11
+  },
+  {
+    "Category": "pc_gamer",
+    "State": "RS",
+    "Percentage": 11.11
+  },
+  {
+    "Category": "pcs",
+    "State": "SP",
+    "Percentage": 29.06
+  },
+  {
+    "Category": "pcs",
+    "State": "BA",
+    "Percentage": 12.32
+  },
+  {
+    "Category": "pcs",
+    "State": "RJ",
+    "Percentage": 11.33
+  },
+  {
+    "Category": "pcs",
+    "State": "MG",
+    "Percentage": 9.36
+  },
+  {
+    "Category": "pcs",
+    "State": "PE",
+    "Percentage": 4.93
+  },
+  {
+    "Category": "pcs",
+    "State": "RS",
+    "Percentage": 3.94
+  },
+  {
+    "Category": "pcs",
+    "State": "DF",
+    "Percentage": 3.45
+  },
+  {
+    "Category": "pcs",
+    "State": "CE",
+    "Percentage": 2.96
+  },
+  {
+    "Category": "pcs",
+    "State": "SC",
+    "Percentage": 2.46
+  },
+  {
+    "Category": "pcs",
+    "State": "MA",
+    "Percentage": 2.46
+  },
+  {
+    "Category": "pcs",
+    "State": "GO",
+    "Percentage": 2.46
+  },
+  {
+    "Category": "pcs",
+    "State": "PB",
+    "Percentage": 1.97
+  },
+  {
+    "Category": "pcs",
+    "State": "PA",
+    "Percentage": 1.97
+  },
+  {
+    "Category": "pcs",
+    "State": "PR",
+    "Percentage": 1.97
+  },
+  {
+    "Category": "pcs",
+    "State": "PI",
+    "Percentage": 1.48
+  },
+  {
+    "Category": "pcs",
+    "State": "ES",
+    "Percentage": 1.48
+  },
+  {
+    "Category": "pcs",
+    "State": "MT",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "pcs",
+    "State": "RO",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "pcs",
+    "State": "AL",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "pcs",
+    "State": "SE",
+    "Percentage": 0.99
+  },
+  {
+    "Category": "pcs",
+    "State": "AM",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "pcs",
+    "State": "AC",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "pcs",
+    "State": "AP",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "pcs",
+    "State": "MS",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "pcs",
+    "State": "TO",
+    "Percentage": 0.49
+  },
+  {
+    "Category": "perfumaria",
+    "State": "SP",
+    "Percentage": 43.26
+  },
+  {
+    "Category": "perfumaria",
+    "State": "RJ",
+    "Percentage": 13.19
+  },
+  {
+    "Category": "perfumaria",
+    "State": "MG",
+    "Percentage": 11.9
+  },
+  {
+    "Category": "perfumaria",
+    "State": "RS",
+    "Percentage": 4.53
+  },
+  {
+    "Category": "perfumaria",
+    "State": "PR",
+    "Percentage": 4.5
+  },
+  {
+    "Category": "perfumaria",
+    "State": "SC",
+    "Percentage": 3.45
+  },
+  {
+    "Category": "perfumaria",
+    "State": "GO",
+    "Percentage": 2.69
+  },
+  {
+    "Category": "perfumaria",
+    "State": "DF",
+    "Percentage": 2.57
+  },
+  {
+    "Category": "perfumaria",
+    "State": "BA",
+    "Percentage": 2.4
+  },
+  {
+    "Category": "perfumaria",
+    "State": "ES",
+    "Percentage": 1.99
+  },
+  {
+    "Category": "perfumaria",
+    "State": "CE",
+    "Percentage": 1.67
+  },
+  {
+    "Category": "perfumaria",
+    "State": "PE",
+    "Percentage": 1.46
+  },
+  {
+    "Category": "perfumaria",
+    "State": "PA",
+    "Percentage": 1.02
+  },
+  {
+    "Category": "perfumaria",
+    "State": "MA",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "perfumaria",
+    "State": "MT",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "perfumaria",
+    "State": "MS",
+    "Percentage": 0.73
+  },
+  {
+    "Category": "perfumaria",
+    "State": "RN",
+    "Percentage": 0.61
+  },
+  {
+    "Category": "perfumaria",
+    "State": "PB",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "perfumaria",
+    "State": "PI",
+    "Percentage": 0.47
+  },
+  {
+    "Category": "perfumaria",
+    "State": "TO",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "perfumaria",
+    "State": "AL",
+    "Percentage": 0.35
+  },
+  {
+    "Category": "perfumaria",
+    "State": "SE",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "perfumaria",
+    "State": "RO",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "perfumaria",
+    "State": "AC",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "perfumaria",
+    "State": "AM",
+    "Percentage": 0.06
+  },
+  {
+    "Category": "perfumaria",
+    "State": "RR",
+    "Percentage": 0.03
+  },
+  {
+    "Category": "pet_shop",
+    "State": "SP",
+    "Percentage": 46.22
+  },
+  {
+    "Category": "pet_shop",
+    "State": "MG",
+    "Percentage": 12.89
+  },
+  {
+    "Category": "pet_shop",
+    "State": "RJ",
+    "Percentage": 11.25
+  },
+  {
+    "Category": "pet_shop",
+    "State": "RS",
+    "Percentage": 5.08
+  },
+  {
+    "Category": "pet_shop",
+    "State": "PR",
+    "Percentage": 4.67
+  },
+  {
+    "Category": "pet_shop",
+    "State": "SC",
+    "Percentage": 4.37
+  },
+  {
+    "Category": "pet_shop",
+    "State": "BA",
+    "Percentage": 3.18
+  },
+  {
+    "Category": "pet_shop",
+    "State": "DF",
+    "Percentage": 2.05
+  },
+  {
+    "Category": "pet_shop",
+    "State": "GO",
+    "Percentage": 1.44
+  },
+  {
+    "Category": "pet_shop",
+    "State": "ES",
+    "Percentage": 1.34
+  },
+  {
+    "Category": "pet_shop",
+    "State": "MS",
+    "Percentage": 1.28
+  },
+  {
+    "Category": "pet_shop",
+    "State": "PE",
+    "Percentage": 1.23
+  },
+  {
+    "Category": "pet_shop",
+    "State": "MT",
+    "Percentage": 0.82
+  },
+  {
+    "Category": "pet_shop",
+    "State": "CE",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "pet_shop",
+    "State": "RN",
+    "Percentage": 0.67
+  },
+  {
+    "Category": "pet_shop",
+    "State": "PA",
+    "Percentage": 0.56
+  },
+  {
+    "Category": "pet_shop",
+    "State": "MA",
+    "Percentage": 0.51
+  },
+  {
+    "Category": "pet_shop",
+    "State": "PB",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "pet_shop",
+    "State": "RO",
+    "Percentage": 0.41
+  },
+  {
+    "Category": "pet_shop",
+    "State": "PI",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "pet_shop",
+    "State": "AM",
+    "Percentage": 0.21
+  },
+  {
+    "Category": "pet_shop",
+    "State": "TO",
+    "Percentage": 0.21
+  },
+  {
+    "Category": "pet_shop",
+    "State": "AL",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "pet_shop",
+    "State": "SE",
+    "Percentage": 0.15
+  },
+  {
+    "Category": "pet_shop",
+    "State": "AP",
+    "Percentage": 0.1
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "SP",
+    "Percentage": 46.05
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "MG",
+    "Percentage": 13.16
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "PR",
+    "Percentage": 10.53
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "RJ",
+    "Percentage": 9.21
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "SC",
+    "Percentage": 5.26
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "RS",
+    "Percentage": 3.95
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "BA",
+    "Percentage": 3.95
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "PE",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "MT",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "MS",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "DF",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "TO",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_casa_forno_e_cafe",
+    "State": "RO",
+    "Percentage": 1.32
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "SP",
+    "Percentage": 53.33
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "MG",
+    "Percentage": 13.33
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "GO",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "RJ",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "BA",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "PA",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "portateis_cozinha_e_preparadores_de_alimentos",
+    "State": "RS",
+    "Percentage": 6.67
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "SP",
+    "Percentage": 38.07
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "RJ",
+    "Percentage": 14.77
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "MG",
+    "Percentage": 10.63
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "PR",
+    "Percentage": 5.12
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "RS",
+    "Percentage": 3.94
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "BA",
+    "Percentage": 3.89
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "SC",
+    "Percentage": 3.09
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "PE",
+    "Percentage": 2.75
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "ES",
+    "Percentage": 2.54
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "GO",
+    "Percentage": 2.49
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "DF",
+    "Percentage": 2.47
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "CE",
+    "Percentage": 2.25
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "PA",
+    "Percentage": 1.27
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "MT",
+    "Percentage": 1.02
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "MA",
+    "Percentage": 1.0
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "RN",
+    "Percentage": 0.82
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "PB",
+    "Percentage": 0.72
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "PI",
+    "Percentage": 0.68
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "MS",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "AL",
+    "Percentage": 0.6
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "TO",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "SE",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "RO",
+    "Percentage": 0.25
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "AM",
+    "Percentage": 0.18
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "AP",
+    "Percentage": 0.13
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "AC",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "relogios_presentes",
+    "State": "RR",
+    "Percentage": 0.02
+  },
+  {
+    "Category": "seguros_e_servicos",
+    "State": "RO",
+    "Percentage": 50.0
+  },
+  {
+    "Category": "seguros_e_servicos",
+    "State": "DF",
+    "Percentage": 50.0
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "SP",
+    "Percentage": 47.74
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "RJ",
+    "Percentage": 10.05
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "RS",
+    "Percentage": 8.54
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "MG",
+    "Percentage": 5.53
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "SC",
+    "Percentage": 5.03
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "BA",
+    "Percentage": 3.02
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "MT",
+    "Percentage": 3.02
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "GO",
+    "Percentage": 3.02
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "ES",
+    "Percentage": 3.02
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "PB",
+    "Percentage": 3.02
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "DF",
+    "Percentage": 2.01
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "PR",
+    "Percentage": 1.51
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "PA",
+    "Percentage": 1.51
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "SE",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "PE",
+    "Percentage": 1.01
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "RN",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "sinalizacao_e_seguranca",
+    "State": "MS",
+    "Percentage": 0.5
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "SP",
+    "Percentage": 38.55
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "RJ",
+    "Percentage": 12.05
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "MG",
+    "Percentage": 12.05
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "BA",
+    "Percentage": 7.23
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "PA",
+    "Percentage": 4.82
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "ES",
+    "Percentage": 4.82
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "PR",
+    "Percentage": 3.61
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "PI",
+    "Percentage": 3.61
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "PE",
+    "Percentage": 2.41
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "MS",
+    "Percentage": 2.41
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "MT",
+    "Percentage": 2.41
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "CE",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "MA",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "GO",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "RS",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "tablets_impressao_imagem",
+    "State": "AM",
+    "Percentage": 1.2
+  },
+  {
+    "Category": "telefonia",
+    "State": "SP",
+    "Percentage": 36.26
+  },
+  {
+    "Category": "telefonia",
+    "State": "MG",
+    "Percentage": 10.65
+  },
+  {
+    "Category": "telefonia",
+    "State": "RJ",
+    "Percentage": 9.64
+  },
+  {
+    "Category": "telefonia",
+    "State": "RS",
+    "Percentage": 6.42
+  },
+  {
+    "Category": "telefonia",
+    "State": "PR",
+    "Percentage": 5.5
+  },
+  {
+    "Category": "telefonia",
+    "State": "BA",
+    "Percentage": 5.46
+  },
+  {
+    "Category": "telefonia",
+    "State": "SC",
+    "Percentage": 3.85
+  },
+  {
+    "Category": "telefonia",
+    "State": "PE",
+    "Percentage": 2.82
+  },
+  {
+    "Category": "telefonia",
+    "State": "GO",
+    "Percentage": 2.71
+  },
+  {
+    "Category": "telefonia",
+    "State": "ES",
+    "Percentage": 2.53
+  },
+  {
+    "Category": "telefonia",
+    "State": "CE",
+    "Percentage": 2.18
+  },
+  {
+    "Category": "telefonia",
+    "State": "DF",
+    "Percentage": 2.07
+  },
+  {
+    "Category": "telefonia",
+    "State": "PA",
+    "Percentage": 1.69
+  },
+  {
+    "Category": "telefonia",
+    "State": "MT",
+    "Percentage": 1.45
+  },
+  {
+    "Category": "telefonia",
+    "State": "MA",
+    "Percentage": 1.43
+  },
+  {
+    "Category": "telefonia",
+    "State": "PI",
+    "Percentage": 0.84
+  },
+  {
+    "Category": "telefonia",
+    "State": "AL",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "telefonia",
+    "State": "MS",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "telefonia",
+    "State": "SE",
+    "Percentage": 0.62
+  },
+  {
+    "Category": "telefonia",
+    "State": "PB",
+    "Percentage": 0.59
+  },
+  {
+    "Category": "telefonia",
+    "State": "RN",
+    "Percentage": 0.53
+  },
+  {
+    "Category": "telefonia",
+    "State": "TO",
+    "Percentage": 0.46
+  },
+  {
+    "Category": "telefonia",
+    "State": "RO",
+    "Percentage": 0.42
+  },
+  {
+    "Category": "telefonia",
+    "State": "AM",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "telefonia",
+    "State": "AC",
+    "Percentage": 0.11
+  },
+  {
+    "Category": "telefonia",
+    "State": "RR",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "telefonia",
+    "State": "AP",
+    "Percentage": 0.09
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "SP",
+    "Percentage": 44.7
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "RJ",
+    "Percentage": 13.64
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "RS",
+    "Percentage": 7.2
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "MG",
+    "Percentage": 6.44
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "BA",
+    "Percentage": 4.55
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "ES",
+    "Percentage": 3.41
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "SC",
+    "Percentage": 2.65
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "AP",
+    "Percentage": 2.27
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "PR",
+    "Percentage": 2.27
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "GO",
+    "Percentage": 2.27
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "PB",
+    "Percentage": 1.89
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "AL",
+    "Percentage": 1.52
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "CE",
+    "Percentage": 1.52
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "PE",
+    "Percentage": 1.14
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "DF",
+    "Percentage": 1.14
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "PI",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "TO",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "SE",
+    "Percentage": 0.76
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "PA",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "AM",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "MA",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "telefonia_fixa",
+    "State": "MS",
+    "Percentage": 0.38
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "SP",
+    "Percentage": 47.13
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "RJ",
+    "Percentage": 12.62
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "MG",
+    "Percentage": 11.99
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "RS",
+    "Percentage": 6.23
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "PR",
+    "Percentage": 4.78
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "SC",
+    "Percentage": 3.79
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "BA",
+    "Percentage": 2.33
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "DF",
+    "Percentage": 2.23
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "GO",
+    "Percentage": 1.9
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "ES",
+    "Percentage": 1.64
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "PE",
+    "Percentage": 0.88
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "CE",
+    "Percentage": 0.85
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "MT",
+    "Percentage": 0.75
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "MS",
+    "Percentage": 0.56
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "PA",
+    "Percentage": 0.55
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "RN",
+    "Percentage": 0.36
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "MA",
+    "Percentage": 0.34
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "PB",
+    "Percentage": 0.33
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "PI",
+    "Percentage": 0.27
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "TO",
+    "Percentage": 0.2
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "SE",
+    "Percentage": 0.16
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "AL",
+    "Percentage": 0.14
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "RO",
+    "Percentage": 0.07
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "AC",
+    "Percentage": 0.06
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "AP",
+    "Percentage": 0.06
+  },
+  {
+    "Category": "utilidades_domesticas",
+    "State": "AM",
+    "Percentage": 0.06
+  }
+]

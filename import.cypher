@@ -5,8 +5,8 @@ LOAD CSV WITH HEADERS FROM "file:///olist_orders_dataset.csv" AS orders
 WITH orders WHERE orders.order_id IS NOT NULL
 CREATE (o:Order{order_id: orders.order_id, 
 	customer_id: orders.customer_id,
-	purchase_timestamp: datetime({ epochMillis: apoc.date.parse(orders.order_purchase_timestamp, 'ms', 'YYYY-mm-dd HH:mm:ss') }),
-	delivery_date: datetime({ epochMillis: apoc.date.parse(orders.order_estimated_delivery_date, 'ms', 'YYYY-mm-dd HH:mm:ss') })});
+	purchase_timestamp: datetime({ epochMillis: apoc.date.parse(orders.order_purchase_timestamp, 'ms', 'yyyy-MM-dd HH:mm:ss') }),
+	delivery_date: datetime({ epochMillis: apoc.date.parse(orders.order_estimated_delivery_date, 'ms', 'yyyy-MM-dd HH:mm:ss') })});
 
 //Seller
 LOAD CSV WITH HEADERS FROM "file:///olist_sellers_dataset.csv" AS sellers

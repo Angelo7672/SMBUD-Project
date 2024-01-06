@@ -80,7 +80,7 @@ ORDER BY Seller ASC, Year DESC;
 
 MATCH (i:Item)-[:CORRESPONDS_TO]->(pr:Product)
 WITH DISTINCT pr.photos_qty AS Photos_Quantity, round(sum(i.price),2) AS Revenue, count(i) AS Sold_Products
-RETURN Photos_Quantity, Revenue, Sold_Products, Revenue/Sold_Products AS Average_Price
+RETURN Photos_Quantity, Revenue, Sold_Products, round(Revenue/Sold_Products,2) AS Average_Price
 ORDER BY Photos_Quantity DESC;
 
 // 10) For each year, the most purchased product

@@ -51,7 +51,7 @@ WITH cat, COLLECT{
 } as bs
 UNWIND bs as BestSellers
 RETURN cat.name as Category, BestSellers.id as Product, BestSellers.score as Score
-ORDER BY Category ASC, Score DESC;
+ORDER BY Category ASC, Score DESC
 	
 //6) For each seller the month when they earn the most
 MATCH (o:Order)-[:COMPOSED_OF]->(i:Item)-[:CORRESPONDS_TO]->(p:Product),

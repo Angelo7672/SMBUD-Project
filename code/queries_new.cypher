@@ -46,7 +46,8 @@ MATCH (o:Order)-[:COMPOSED_OF]->(i:Item)-[:CORRESPONDS_TO]->(p:Product),
 		(i)-[:SOLD_BY]->(s:Seller)
 WITH s.seller_id AS Seller, o.purchase_timestamp.month AS Month, round(sum(i.price), 2) AS Revenue
 ORDER BY Revenue DESC
-RETURN Seller, COLLECT(Month)[0] AS Month, COLLECT(Revenue)[0] AS Revenue
+WITH Seller, COLLECT(Month)[0] AS Month, COLLECT(Revenue)[0] AS Revenue
+RETURN Seller, ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][Month-1] AS Month, Revenue
 ORDER BY Seller ASC;
 
 // 7) For each product, the average number of times it is bought per month

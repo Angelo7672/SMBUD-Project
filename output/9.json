@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Photos_Quantity": null,
+    "Revenue": 179535.28,
+    "Sold_Products": 1603,
+    "Average_Price": 112.0
+  },
+  {
+    "Photos_Quantity": 20,
+    "Revenue": 110.27,
+    "Sold_Products": 1,
+    "Average_Price": 110.27
+  },
+  {
+    "Photos_Quantity": 19,
+    "Revenue": 277.88,
+    "Sold_Products": 2,
+    "Average_Price": 138.94
+  },
+  {
+    "Photos_Quantity": 18,
+    "Revenue": 354.4,
+    "Sold_Products": 4,
+    "Average_Price": 88.6
+  },
+  {
+    "Photos_Quantity": 17,
+    "Revenue": 841.0,
+    "Sold_Products": 11,
+    "Average_Price": 76.45
+  },
+  {
+    "Photos_Quantity": 15,
+    "Revenue": 1043.77,
+    "Sold_Products": 12,
+    "Average_Price": 86.98
+  },
+  {
+    "Photos_Quantity": 14,
+    "Revenue": 1500.87,
+    "Sold_Products": 6,
+    "Average_Price": 250.14
+  },
+  {
+    "Photos_Quantity": 13,
+    "Revenue": 1236.78,
+    "Sold_Products": 30,
+    "Average_Price": 41.23
+  },
+  {
+    "Photos_Quantity": 12,
+    "Revenue": 2551.98,
+    "Sold_Products": 53,
+    "Average_Price": 48.15
+  },
+  {
+    "Photos_Quantity": 11,
+    "Revenue": 5342.27,
+    "Sold_Products": 71,
+    "Average_Price": 75.24
+  },
+  {
+    "Photos_Quantity": 10,
+    "Revenue": 51516.77,
+    "Sold_Products": 342,
+    "Average_Price": 150.63
+  },
+  {
+    "Photos_Quantity": 9,
+    "Revenue": 40301.87,
+    "Sold_Products": 313,
+    "Average_Price": 128.76
+  },
+  {
+    "Photos_Quantity": 8,
+    "Revenue": 108374.97,
+    "Sold_Products": 727,
+    "Average_Price": 149.07
+  },
+  {
+    "Photos_Quantity": 7,
+    "Revenue": 238081.86,
+    "Sold_Products": 1501,
+    "Average_Price": 158.62
+  },
+  {
+    "Photos_Quantity": 6,
+    "Revenue": 499489.75,
+    "Sold_Products": 3786,
+    "Average_Price": 131.93
+  },
+  {
+    "Photos_Quantity": 5,
+    "Revenue": 728390.64,
+    "Sold_Products": 5368,
+    "Average_Price": 135.69
+  },
+  {
+    "Photos_Quantity": 4,
+    "Revenue": 1228562.26,
+    "Sold_Products": 8437,
+    "Average_Price": 145.62
+  },
+  {
+    "Photos_Quantity": 3,
+    "Revenue": 1683253.48,
+    "Sold_Products": 12392,
+    "Average_Price": 135.83
+  },
+  {
+    "Photos_Quantity": 2,
+    "Revenue": 2449270.98,
+    "Sold_Products": 21963,
+    "Average_Price": 111.52
+  },
+  {
+    "Photos_Quantity": 1,
+    "Revenue": 6371606.62,
+    "Sold_Products": 56028,
+    "Average_Price": 113.72
+  }
+]
